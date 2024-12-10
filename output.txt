@@ -1,0 +1,745 @@
+['datasets', 'euroc', 'mh02']
+results/datasets_vinsgsstereo_euroc_mh02/2024-08-14-20-40-36
+MonoGS: saving results in results/datasets_vinsgsstereo_euroc_mh02/2024-08-14-20-40-36
+Unable to register with master node [http://localhost:11311]: master may not be running yet. Will keep trying.
+MonoGS: Resetting the system
+init step and render depth mean is  tensor(2.8667, device='cuda:0', grad_fn=<MeanBackward0>)
+init step and render depth min is  tensor(0., device='cuda:0', grad_fn=<MinBackward1>)
+init step and render depth max is  tensor(15.8741, device='cuda:0', grad_fn=<MaxBackward1>)
+MonoGS: Initialized map
+FEngine (64 bits) created at 0x5633fc946900 (threading is enabled)
+FEngine resolved backend: OpenGL
+pose diff is  [0. 0. 0.]
+empty queue
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+pose diff is  [0. 0. 0.]
+Frontend !!! Tracking and refining exposure cost  108.12664031982422 ms
+last frame idx is  0
+self current windows is  [0]
+Frontend !!! Tracking and refining exposure cost  102.78630256652832 ms
+last frame idx is  0
+self current windows is  [0]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  101.95636749267578 ms
+last frame idx is  2
+self current windows is  [2, 0]
+Frontend !!! Tracking and refining exposure cost  102.52642631530762 ms
+last frame idx is  2
+self current windows is  [2, 0]
+Frontend !!! Tracking and refining exposure cost  102.24533081054688 ms
+last frame idx is  2
+self current windows is  [2, 0]
+Frontend !!! Tracking and refining exposure cost  102.6310920715332 ms
+last frame idx is  2
+self current windows is  [2, 0]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  101.7599105834961 ms
+last frame idx is  6
+self current windows is  [6, 2, 0]
+Frontend !!! Tracking and refining exposure cost  102.4634838104248 ms
+last frame idx is  6
+self current windows is  [6, 2, 0]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  103.52087020874023 ms
+last frame idx is  8
+self current windows is  [8, 6, 2, 0]
+create_kf !!
+MonoGS: Evaluating ATE at frame:  10
+Eval: RMSE ATE [m] 0.003708821835623777
+Frontend !!! Tracking and refining exposure cost  102.49614715576172 ms
+last frame idx is  9
+self current windows is  [9, 8, 6, 2, 0]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.50973701477051 ms
+last frame idx is  10
+self current windows is  [10, 9, 8, 6, 2, 0]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  105.95464706420898 ms
+last frame idx is  11
+self current windows is  [11, 10, 9, 8, 6, 2, 0]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.18000411987305 ms
+last frame idx is  12
+self current windows is  [12, 11, 10, 9, 8, 6, 2, 0]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.264404296875 ms
+last frame idx is  13
+self current windows is  [13, 12, 11, 10, 9, 8, 6, 2]
+create_kf !!
+MonoGS: Evaluating ATE at frame:  15
+Eval: RMSE ATE [m] 0.004805193467109189
+Frontend !!! Tracking and refining exposure cost  103.95193099975586 ms
+last frame idx is  14
+self current windows is  [14, 13, 12, 11, 10, 9, 8, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.46038436889648 ms
+last frame idx is  15
+self current windows is  [15, 14, 13, 12, 11, 10, 8, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.08892822265625 ms
+last frame idx is  16
+self current windows is  [16, 15, 14, 13, 12, 10, 8, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.07462310791016 ms
+last frame idx is  17
+self current windows is  [17, 16, 15, 14, 13, 12, 10, 6]
+Frontend !!! Tracking and refining exposure cost  109.45892333984375 ms
+last frame idx is  17
+self current windows is  [17, 16, 15, 14, 13, 12, 10, 6]
+Frontend !!! Tracking and refining exposure cost  103.3010482788086 ms
+last frame idx is  17
+self current windows is  [17, 16, 15, 14, 13, 12, 10, 6]
+Frontend !!! Tracking and refining exposure cost  102.5857925415039 ms
+last frame idx is  17
+self current windows is  [17, 16, 15, 14, 13, 12, 10, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.68616676330566 ms
+last frame idx is  21
+self current windows is  [21, 17, 16, 15, 14, 12, 10, 6]
+create_kf !!
+MonoGS: Evaluating ATE at frame:  23
+Eval: RMSE ATE [m] 0.006867833867953232
+Frontend !!! Tracking and refining exposure cost  101.83310508728027 ms
+last frame idx is  22
+self current windows is  [22, 21, 17, 15, 14, 12, 10, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.26893424987793 ms
+last frame idx is  23
+self current windows is  [23, 22, 17, 15, 14, 12, 10, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.42557525634766 ms
+last frame idx is  24
+self current windows is  [24, 23, 22, 17, 14, 12, 10, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.05721855163574 ms
+last frame idx is  25
+self current windows is  [25, 24, 23, 17, 14, 12, 10, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.15449333190918 ms
+last frame idx is  26
+self current windows is  [26, 25, 24, 17, 14, 12, 10, 6]
+create_kf !!
+MonoGS: Evaluating ATE at frame:  28
+Eval: RMSE ATE [m] 0.008904764200723857
+Frontend !!! Tracking and refining exposure cost  101.95684432983398 ms
+last frame idx is  27
+self current windows is  [27, 26, 25, 17, 14, 12, 10, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.71382331848145 ms
+last frame idx is  28
+self current windows is  [28, 27, 26, 17, 14, 12, 10, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.68068313598633 ms
+last frame idx is  29
+self current windows is  [29, 28, 27, 17, 14, 12, 10, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.08678245544434 ms
+last frame idx is  30
+self current windows is  [30, 29, 28, 27, 17, 14, 12, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  103.19137573242188 ms
+last frame idx is  31
+self current windows is  [31, 30, 29, 28, 27, 17, 12, 6]
+create_kf !!
+MonoGS: Evaluating ATE at frame:  33
+Eval: RMSE ATE [m] 0.009092688030528871
+Frontend !!! Tracking and refining exposure cost  102.5996208190918 ms
+last frame idx is  32
+self current windows is  [32, 31, 30, 29, 27, 17, 12, 6]
+Frontend !!! Tracking and refining exposure cost  114.03584480285645 ms
+last frame idx is  32
+self current windows is  [32, 31, 30, 29, 27, 17, 12, 6]
+Frontend !!! Tracking and refining exposure cost  103.08003425598145 ms
+last frame idx is  32
+self current windows is  [32, 31, 30, 29, 27, 17, 12, 6]
+Frontend !!! Tracking and refining exposure cost  109.70115661621094 ms
+last frame idx is  32
+self current windows is  [32, 31, 30, 29, 27, 17, 12, 6]
+Frontend !!! Tracking and refining exposure cost  102.59747505187988 ms
+last frame idx is  32
+self current windows is  [32, 31, 30, 29, 27, 17, 12, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  103.06572914123535 ms
+last frame idx is  37
+self current windows is  [37, 32, 31, 30, 27, 17, 12, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  103.3942699432373 ms
+last frame idx is  38
+self current windows is  [38, 37, 32, 30, 27, 17, 12, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  105.11326789855957 ms
+last frame idx is  39
+self current windows is  [39, 38, 37, 32, 27, 17, 12, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.16712951660156 ms
+last frame idx is  40
+self current windows is  [40, 39, 38, 32, 27, 17, 12, 6]
+create_kf !!
+MonoGS: Evaluating ATE at frame:  42
+Eval: RMSE ATE [m] 0.00889192074810506
+Frontend !!! Tracking and refining exposure cost  102.67329216003418 ms
+last frame idx is  41
+self current windows is  [41, 40, 39, 32, 27, 17, 12, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.9958724975586 ms
+last frame idx is  42
+self current windows is  [42, 41, 39, 32, 27, 17, 12, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  103.01852226257324 ms
+last frame idx is  43
+self current windows is  [43, 42, 41, 39, 32, 17, 12, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  103.54280471801758 ms
+last frame idx is  44
+self current windows is  [44, 43, 42, 41, 32, 17, 12, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.53047943115234 ms
+last frame idx is  45
+self current windows is  [45, 44, 43, 41, 32, 17, 12, 6]
+create_kf !!
+MonoGS: Evaluating ATE at frame:  47
+Eval: RMSE ATE [m] 0.008632091743121715
+Frontend !!! Tracking and refining exposure cost  102.93698310852051 ms
+last frame idx is  46
+self current windows is  [46, 45, 44, 41, 32, 17, 12, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.43725776672363 ms
+last frame idx is  47
+self current windows is  [47, 46, 45, 44, 41, 32, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.78201103210449 ms
+last frame idx is  48
+self current windows is  [48, 47, 46, 44, 41, 32, 17, 6]
+Frontend !!! Tracking and refining exposure cost  105.11374473571777 ms
+last frame idx is  48
+self current windows is  [48, 47, 46, 44, 41, 32, 17, 6]
+Frontend !!! Tracking and refining exposure cost  102.16045379638672 ms
+last frame idx is  48
+self current windows is  [48, 47, 46, 44, 41, 32, 17, 6]
+Frontend !!! Tracking and refining exposure cost  101.85384750366211 ms
+last frame idx is  48
+self current windows is  [48, 47, 46, 44, 41, 32, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  103.48200798034668 ms
+last frame idx is  52
+self current windows is  [52, 48, 46, 44, 41, 32, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.19430923461914 ms
+last frame idx is  53
+self current windows is  [53, 52, 46, 44, 41, 32, 17, 6]
+create_kf !!
+MonoGS: Evaluating ATE at frame:  55
+Eval: RMSE ATE [m] 0.008663689798646186
+Frontend !!! Tracking and refining exposure cost  107.89823532104492 ms
+last frame idx is  54
+self current windows is  [54, 53, 52, 44, 41, 32, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.0803451538086 ms
+last frame idx is  55
+self current windows is  [55, 54, 52, 44, 41, 32, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.23221778869629 ms
+last frame idx is  56
+self current windows is  [56, 55, 54, 52, 41, 32, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.48732566833496 ms
+last frame idx is  57
+self current windows is  [57, 56, 55, 54, 41, 32, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.53286361694336 ms
+last frame idx is  58
+self current windows is  [58, 57, 55, 54, 41, 32, 17, 6]
+create_kf !!
+MonoGS: Evaluating ATE at frame:  60
+Eval: RMSE ATE [m] 0.008738818302941313
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  80.86657524108887
+keyframe mapping time is  84.21850204467773
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  91.60566329956055
+keyframe mapping time is  97.10693359375
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  119.15206909179688
+keyframe mapping time is  129.20093536376953
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  191.44225120544434
+keyframe mapping time is  201.4303207397461
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  182.57951736450195
+keyframe mapping time is  191.7109489440918
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  198.49371910095215
+keyframe mapping time is  215.7001495361328
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  252.0773410797119
+keyframe mapping time is  268.54944229125977
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  226.40681266784668
+keyframe mapping time is  251.2655258178711
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  266.5259838104248
+keyframe mapping time is  288.5153293609619
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  272.7844715118408
+keyframe mapping time is  301.1786937713623
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  309.2830181121826
+keyframe mapping time is  328.62114906311035
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  281.62193298339844
+keyframe mapping time is  303.0881881713867
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  265.979528427124
+keyframe mapping time is  285.31718254089355
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  277.2531509399414
+keyframe mapping time is  300.1389503479004
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  278.717041015625
+keyframe mapping time is  296.79036140441895
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  286.68737411499023
+keyframe mapping time is  308.3655834197998
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  259.9306106567383
+keyframe mapping time is  281.0356616973877
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  272.77469635009766
+keyframe mapping time is  292.93107986450195
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  282.24802017211914
+keyframe mapping time is  302.0787239074707
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  276.85070037841797
+keyframe mapping time is  299.59797859191895
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  288.316011428833
+keyframe mapping time is  324.739933013916
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  288.9409065246582
+keyframe mapping time is  329.7891616821289
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  297.9404926300049
+keyframe mapping time is  324.3212699890137
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  302.7303218841553
+keyframe mapping time is  334.57422256469727
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  291.15843772888184
+keyframe mapping time is  314.8691654205322
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  293.8568592071533
+keyframe mapping time is  314.7852420806885
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  321.0437297821045
+keyframe mapping time is  347.7647304534912
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  300.7631301879883
+keyframe mapping time is  323.70638847351074
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  321.70820236206055
+keyframe mapping time is  348.24180603027344
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  306.99610710144043
+keyframe mapping time is  329.3435573577881
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  301.9905090332031
+keyframe mapping time is  320.39666175842285
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  281.68320655822754
+keyframe mapping time is  312.161922454834
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  296.0031032562256
+keyframe mapping time is  316.0214424133301
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  302.75917053222656
+keyframe mapping time is  322.7212429046631
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  270.53022384643555
+keyframe mapping time is  289.4577980041504
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  264.0857696533203
+keyframe mapping time is  286.0753536224365
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  287.841796875
+keyframe mapping time is  309.53526496887207
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  300.15015602111816
+keyframe mapping time is  319.9048042297363
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  286.85784339904785
+keyframe mapping time is  304.99768257141113
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  275.24352073669434
+keyframe mapping time is  294.5289611816406
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  266.96109771728516
+keyframe mapping time is  289.54195976257324
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  264.27578926086426
+keyframe mapping time is  285.5393886566162
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  286.8175506591797
+keyframe mapping time is  308.90655517578125
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  288.42830657958984
+keyframe mapping time is  309.0214729309082
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  295.14265060424805
+keyframe mapping time is  318.3753490447998
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  302.2298812866211
+keyframe mapping time is  336.12799644470215
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  312.9148483276367
+keyframe mapping time is  334.05423164367676
+MonoGS: Resetting the opacity of non-visible Gaussians
+Frontend !!! Tracking and refining exposure cost  101.92394256591797 ms
+last frame idx is  59
+self current windows is  [59, 58, 57, 54, 41, 32, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.02884674072266 ms
+last frame idx is  60
+self current windows is  [60, 59, 58, 54, 41, 32, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.10037231445312 ms
+last frame idx is  61
+self current windows is  [61, 60, 59, 54, 41, 32, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  103.61933708190918 ms
+last frame idx is  62
+self current windows is  [62, 61, 60, 54, 41, 32, 17, 6]
+Frontend !!! Tracking and refining exposure cost  101.56893730163574 ms
+last frame idx is  62
+self current windows is  [62, 61, 60, 54, 41, 32, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.95319557189941 ms
+last frame idx is  64
+self current windows is  [64, 62, 61, 54, 41, 32, 17, 6]
+Frontend !!! Tracking and refining exposure cost  110.95190048217773 ms
+last frame idx is  64
+self current windows is  [64, 62, 61, 54, 41, 32, 17, 6]
+Frontend !!! Tracking and refining exposure cost  102.65421867370605 ms
+last frame idx is  64
+self current windows is  [64, 62, 61, 54, 41, 32, 17, 6]
+create_kf !!
+MonoGS: Evaluating ATE at frame:  68
+Eval: RMSE ATE [m] 0.008766070590807223
+Frontend !!! Tracking and refining exposure cost  102.54502296447754 ms
+last frame idx is  67
+self current windows is  [67, 64, 62, 61, 41, 32, 17, 6]
+Frontend !!! Tracking and refining exposure cost  103.79934310913086 ms
+last frame idx is  67
+self current windows is  [67, 64, 62, 61, 41, 32, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  101.91631317138672 ms
+last frame idx is  69
+self current windows is  [69, 67, 64, 61, 41, 32, 17, 6]
+Frontend !!! Tracking and refining exposure cost  103.13177108764648 ms
+last frame idx is  69
+self current windows is  [69, 67, 64, 61, 41, 32, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.13208198547363 ms
+last frame idx is  71
+self current windows is  [71, 69, 67, 64, 41, 32, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  105.09920120239258 ms
+last frame idx is  72
+self current windows is  [72, 71, 69, 67, 64, 41, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  110.86511611938477 ms
+last frame idx is  73
+self current windows is  [73, 72, 71, 69, 64, 41, 17, 6]
+create_kf !!
+MonoGS: Evaluating ATE at frame:  75
+Eval: RMSE ATE [m] 0.008734684774432904
+Frontend !!! Tracking and refining exposure cost  102.56814956665039 ms
+last frame idx is  74
+self current windows is  [74, 73, 72, 69, 64, 41, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  207.4575424194336 ms
+last frame idx is  75
+self current windows is  [75, 74, 72, 69, 64, 41, 17, 6]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.3569107055664 ms
+last frame idx is  76
+self current windows is  [76, 75, 74, 72, 69, 64, 41, 17]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.09989547729492 ms
+last frame idx is  77
+self current windows is  [77, 76, 75, 74, 72, 69, 64, 17]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  107.49697685241699 ms
+last frame idx is  78
+self current windows is  [78, 77, 76, 75, 72, 69, 64, 17]
+create_kf !!
+MonoGS: Evaluating ATE at frame:  80
+Eval: RMSE ATE [m] 0.00868908423898073
+Frontend !!! Tracking and refining exposure cost  109.97796058654785 ms
+last frame idx is  79
+self current windows is  [79, 78, 77, 75, 72, 69, 64, 17]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.67782211303711 ms
+last frame idx is  80
+self current windows is  [80, 79, 78, 77, 75, 72, 64, 17]
+Frontend !!! Tracking and refining exposure cost  103.14655303955078 ms
+last frame idx is  80
+self current windows is  [80, 79, 78, 77, 75, 72, 64, 17]
+Frontend !!! Tracking and refining exposure cost  102.3404598236084 ms
+last frame idx is  80
+self current windows is  [80, 79, 78, 77, 75, 72, 64, 17]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.18191146850586 ms
+last frame idx is  83
+self current windows is  [83, 80, 78, 77, 75, 72, 64, 17]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.23793983459473 ms
+last frame idx is  84
+self current windows is  [84, 83, 78, 77, 75, 72, 64, 17]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  103.64890098571777 ms
+last frame idx is  85
+self current windows is  [85, 84, 83, 77, 75, 72, 64, 17]
+create_kf !!
+MonoGS: Evaluating ATE at frame:  87
+Eval: RMSE ATE [m] 0.008717841467723805
+Frontend !!! Tracking and refining exposure cost  102.40530967712402 ms
+last frame idx is  86
+self current windows is  [86, 85, 84, 83, 75, 72, 64, 17]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  110.3370189666748 ms
+last frame idx is  87
+self current windows is  [87, 86, 85, 84, 75, 72, 64, 17]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.33139991760254 ms
+last frame idx is  88
+self current windows is  [88, 87, 86, 84, 75, 72, 64, 17]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.89478302001953 ms
+last frame idx is  89
+self current windows is  [89, 88, 87, 86, 84, 72, 64, 17]
+create_kf !!
+Frontend !!! Tracking and refining exposure cost  102.37932205200195 ms
+last frame idx is  90
+self current windows is  [90, 89, 88, 86, 84, 72, 64, 17]
+create_kf !!
+MonoGS: Evaluating ATE at frame:  92
+Eval: RMSE ATE [m] 0.008821899606223019
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  295.98498344421387
+keyframe mapping time is  317.0735836029053
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  304.1555881500244
+keyframe mapping time is  326.7629146575928
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  299.3783950805664
+keyframe mapping time is  320.5389976501465
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  329.3952941894531
+keyframe mapping time is  350.65269470214844
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  293.9777374267578
+keyframe mapping time is  315.82188606262207
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  304.5334815979004
+keyframe mapping time is  326.1117935180664
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  314.9998188018799
+keyframe mapping time is  339.61963653564453
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  318.38154792785645
+keyframe mapping time is  341.44091606140137
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  308.37392807006836
+keyframe mapping time is  332.61895179748535
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  293.5824394226074
+keyframe mapping time is  313.65513801574707
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  288.59782218933105
+keyframe mapping time is  310.7907772064209
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  319.93985176086426
+keyframe mapping time is  342.82732009887695
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  282.761812210083
+keyframe mapping time is  304.3639659881592
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  295.80020904541016
+keyframe mapping time is  318.45664978027344
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  297.52349853515625
+keyframe mapping time is  317.61741638183594
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  305.6938648223877
+keyframe mapping time is  328.662633895874
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  273.78010749816895
+keyframe mapping time is  294.5704460144043
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  303.70402336120605
+keyframe mapping time is  324.6922492980957
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  285.76183319091797
+keyframe mapping time is  305.9699535369873
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  292.37914085388184
+keyframe mapping time is  315.69647789001465
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  309.39412117004395
+keyframe mapping time is  330.02233505249023
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  313.7972354888916
+keyframe mapping time is  335.1101875305176
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  313.6136531829834
+keyframe mapping time is  335.76083183288574
+iter per kf is  10
+begin mapping new keyframe
+mapping iter is  10  and mapping recent is  False and mapping time is  295.1369285583496
+keyframe mapping time is  333.6179256439209
+iter per kf is  10
+begin mapping new keyframe

@@ -1,0 +1,2302 @@
+MonoGS: saving results in results/datasets_stereoeuroc/2024-07-03-08-23-48
+MonoGS: Resetting the system
+create point cloud time is  5.260467529296875 ms
+MonoGS: Initialized map
+FEngine (64 bits) created at 0x52fdd480 (threading is enabled)
+FEngine resolved backend: OpenGL
+create point cloud time is  4.472494125366211 ms
+mapping iter is  10  and mapping time is  133.70203971862793
+keyframe mapping time is  140.51318168640137
+mapping iter is  1  and mapping time is  19.11783218383789
+mapping iter is  1  and mapping time is  17.910480499267578
+mapping iter is  1  and mapping time is  21.17633819580078
+mapping iter is  1  and mapping time is  18.280982971191406
+mapping iter is  1  and mapping time is  19.742488861083984
+mapping iter is  1  and mapping time is  18.507719039916992
+mapping iter is  1  and mapping time is  15.892267227172852
+mapping iter is  1  and mapping time is  18.889665603637695
+mapping iter is  1  and mapping time is  16.537904739379883
+mapping iter is  1  and mapping time is  17.450332641601562
+mapping iter is  1  and mapping time is  19.780874252319336
+mapping iter is  1  and mapping time is  16.767501831054688
+mapping iter is  1  and mapping time is  19.41847801208496
+mapping iter is  1  and mapping time is  18.148422241210938
+mapping iter is  1  and mapping time is  16.24321937561035
+mapping iter is  1  and mapping time is  15.00082015991211
+mapping iter is  1  and mapping time is  18.271684646606445
+mapping iter is  1  and mapping time is  18.790721893310547
+mapping iter is  1  and mapping time is  14.435052871704102
+mapping iter is  1  and mapping time is  17.65727996826172
+mapping iter is  1  and mapping time is  17.342329025268555
+mapping iter is  1  and mapping time is  24.070262908935547
+mapping iter is  1  and mapping time is  19.12832260131836
+mapping iter is  1  and mapping time is  19.303560256958008
+mapping iter is  1  and mapping time is  17.82393455505371
+mapping iter is  1  and mapping time is  17.784833908081055
+mapping iter is  1  and mapping time is  17.275333404541016
+mapping iter is  1  and mapping time is  9.932994842529297
+mapping iter is  1  and mapping time is  7.344245910644531
+mapping iter is  1  and mapping time is  6.795167922973633
+mapping iter is  1  and mapping time is  8.092880249023438
+mapping iter is  1  and mapping time is  6.195545196533203
+mapping iter is  1  and mapping time is  11.668682098388672
+mapping iter is  1  and mapping time is  12.769699096679688
+mapping iter is  1  and mapping time is  12.283086776733398
+mapping iter is  1  and mapping time is  10.340452194213867
+mapping iter is  1  and mapping time is  4.693269729614258
+mapping iter is  1  and mapping time is  7.89189338684082
+mapping iter is  1  and mapping time is  7.375955581665039
+mapping iter is  1  and mapping time is  9.200096130371094
+mapping iter is  1  and mapping time is  17.093420028686523
+mapping iter is  1  and mapping time is  15.563488006591797
+mapping iter is  1  and mapping time is  18.392324447631836
+mapping iter is  1  and mapping time is  16.11185073852539
+mapping iter is  1  and mapping time is  12.98975944519043
+mapping iter is  1  and mapping time is  15.806436538696289
+mapping iter is  1  and mapping time is  15.050172805786133
+mapping iter is  1  and mapping time is  12.339353561401367
+mapping iter is  1  and mapping time is  15.583992004394531
+mapping iter is  1  and mapping time is  17.452478408813477
+mapping iter is  1  and mapping time is  15.729188919067383
+mapping iter is  1  and mapping time is  16.58916473388672
+mapping iter is  1  and mapping time is  15.831947326660156
+mapping iter is  1  and mapping time is  15.582799911499023
+mapping iter is  1  and mapping time is  17.313480377197266
+mapping iter is  1  and mapping time is  15.814781188964844
+mapping iter is  1  and mapping time is  18.469572067260742
+mapping iter is  1  and mapping time is  14.344930648803711
+mapping iter is  1  and mapping time is  15.109539031982422
+mapping iter is  1  and mapping time is  14.447450637817383
+mapping iter is  1  and mapping time is  14.728784561157227
+mapping iter is  1  and mapping time is  13.164281845092773
+mapping iter is  1  and mapping time is  17.17996597290039
+mapping iter is  1  and mapping time is  17.72022247314453
+mapping iter is  1  and mapping time is  13.083457946777344
+mapping iter is  1  and mapping time is  17.091989517211914
+mapping iter is  1  and mapping time is  12.835979461669922
+mapping iter is  1  and mapping time is  15.780448913574219
+mapping iter is  1  and mapping time is  11.826515197753906
+mapping iter is  1  and mapping time is  6.160736083984375
+mapping iter is  1  and mapping time is  11.866569519042969
+mapping iter is  1  and mapping time is  5.887031555175781
+mapping iter is  1  and mapping time is  4.084110260009766
+mapping iter is  1  and mapping time is  12.101411819458008
+mapping iter is  1  and mapping time is  14.40882682800293
+mapping iter is  1  and mapping time is  15.19632339477539
+mapping iter is  1  and mapping time is  14.978885650634766
+mapping iter is  1  and mapping time is  13.74197006225586
+mapping iter is  1  and mapping time is  13.286352157592773
+mapping iter is  1  and mapping time is  14.871835708618164
+mapping iter is  1  and mapping time is  17.275571823120117
+mapping iter is  1  and mapping time is  13.648509979248047
+mapping iter is  1  and mapping time is  12.651681900024414
+mapping iter is  1  and mapping time is  16.723155975341797
+mapping iter is  1  and mapping time is  16.25680923461914
+mapping iter is  1  and mapping time is  14.803171157836914
+mapping iter is  1  and mapping time is  12.46190071105957
+mapping iter is  1  and mapping time is  16.15738868713379
+mapping iter is  1  and mapping time is  14.419078826904297
+mapping iter is  1  and mapping time is  15.04659652709961
+mapping iter is  1  and mapping time is  13.950824737548828
+mapping iter is  1  and mapping time is  28.34153175354004
+mapping iter is  1  and mapping time is  11.107921600341797
+mapping iter is  1  and mapping time is  14.440298080444336
+mapping iter is  1  and mapping time is  16.449928283691406
+mapping iter is  1  and mapping time is  13.509511947631836
+mapping iter is  1  and mapping time is  12.796401977539062
+mapping iter is  1  and mapping time is  13.507366180419922
+mapping iter is  1  and mapping time is  15.427589416503906
+mapping iter is  1  and mapping time is  14.106035232543945
+mapping iter is  1  and mapping time is  21.66271209716797
+mapping iter is  1  and mapping time is  15.882015228271484
+mapping iter is  1  and mapping time is  11.264324188232422
+mapping iter is  1  and mapping time is  4.856586456298828
+mapping iter is  1  and mapping time is  7.785320281982422
+mapping iter is  1  and mapping time is  4.147529602050781
+mapping iter is  1  and mapping time is  6.093740463256836
+mapping iter is  1  and mapping time is  4.348039627075195
+mapping iter is  1  and mapping time is  5.8193206787109375
+mapping iter is  1  and mapping time is  13.41867446899414
+mapping iter is  1  and mapping time is  13.927221298217773
+mapping iter is  1  and mapping time is  18.46766471862793
+mapping iter is  1  and mapping time is  13.448476791381836
+mapping iter is  1  and mapping time is  13.817787170410156
+mapping iter is  1  and mapping time is  13.084888458251953
+mapping iter is  1  and mapping time is  15.845298767089844
+mapping iter is  1  and mapping time is  12.359857559204102
+mapping iter is  1  and mapping time is  13.619661331176758
+mapping iter is  1  and mapping time is  14.430046081542969
+mapping iter is  1  and mapping time is  13.70692253112793
+mapping iter is  1  and mapping time is  16.804218292236328
+mapping iter is  1  and mapping time is  17.06409454345703
+mapping iter is  1  and mapping time is  13.31472396850586
+mapping iter is  1  and mapping time is  16.503572463989258
+mapping iter is  1  and mapping time is  10.61248779296875
+mapping iter is  1  and mapping time is  13.925552368164062
+mapping iter is  1  and mapping time is  11.527776718139648
+mapping iter is  1  and mapping time is  15.217781066894531
+mapping iter is  1  and mapping time is  12.682437896728516
+mapping iter is  1  and mapping time is  14.905214309692383
+mapping iter is  1  and mapping time is  14.723062515258789
+mapping iter is  1  and mapping time is  14.985799789428711
+mapping iter is  1  and mapping time is  13.242006301879883
+mapping iter is  1  and mapping time is  14.47749137878418
+mapping iter is  1  and mapping time is  14.035463333129883
+mapping iter is  1  and mapping time is  13.352394104003906
+mapping iter is  1  and mapping time is  12.718915939331055
+mapping iter is  1  and mapping time is  14.211416244506836
+mapping iter is  1  and mapping time is  29.68907356262207
+mapping iter is  1  and mapping time is  13.030290603637695
+mapping iter is  1  and mapping time is  15.75160026550293
+mapping iter is  1  and mapping time is  14.13416862487793
+mapping iter is  1  and mapping time is  13.182878494262695
+mapping iter is  1  and mapping time is  11.291742324829102
+mapping iter is  1  and mapping time is  5.726337432861328
+mapping iter is  1  and mapping time is  9.047746658325195
+mapping iter is  1  and mapping time is  6.114959716796875
+mapping iter is  1  and mapping time is  6.066083908081055
+mapping iter is  1  and mapping time is  7.946014404296875
+mapping iter is  1  and mapping time is  9.743452072143555
+mapping iter is  1  and mapping time is  16.827821731567383
+mapping iter is  1  and mapping time is  13.40627670288086
+mapping iter is  1  and mapping time is  15.148401260375977
+mapping iter is  1  and mapping time is  13.132810592651367
+mapping iter is  1  and mapping time is  15.291690826416016
+mapping iter is  1  and mapping time is  14.137029647827148
+mapping iter is  1  and mapping time is  17.452239990234375
+mapping iter is  1  and mapping time is  12.943744659423828
+mapping iter is  1  and mapping time is  13.008832931518555
+mapping iter is  1  and mapping time is  14.820337295532227
+mapping iter is  1  and mapping time is  14.08696174621582
+mapping iter is  1  and mapping time is  8.010625839233398
+mapping iter is  1  and mapping time is  12.380361557006836
+mapping iter is  1  and mapping time is  16.62302017211914
+mapping iter is  1  and mapping time is  14.34016227722168
+mapping iter is  1  and mapping time is  13.837337493896484
+mapping iter is  1  and mapping time is  13.571739196777344
+mapping iter is  1  and mapping time is  16.353130340576172
+mapping iter is  1  and mapping time is  16.02029800415039
+mapping iter is  1  and mapping time is  12.633323669433594
+mapping iter is  1  and mapping time is  17.131328582763672
+mapping iter is  1  and mapping time is  23.44512939453125
+mapping iter is  1  and mapping time is  14.52493667602539
+mapping iter is  1  and mapping time is  16.28899574279785
+mapping iter is  1  and mapping time is  13.870954513549805
+mapping iter is  1  and mapping time is  12.494325637817383
+mapping iter is  1  and mapping time is  13.521909713745117
+mapping iter is  1  and mapping time is  14.819145202636719
+mapping iter is  1  and mapping time is  14.168739318847656
+mapping iter is  1  and mapping time is  17.580032348632812
+mapping iter is  1  and mapping time is  12.543201446533203
+mapping iter is  1  and mapping time is  14.792203903198242
+mapping iter is  1  and mapping time is  15.644550323486328
+mapping iter is  1  and mapping time is  15.941858291625977
+mapping iter is  1  and mapping time is  11.632680892944336
+mapping iter is  1  and mapping time is  12.706756591796875
+mapping iter is  1  and mapping time is  8.601665496826172
+mapping iter is  1  and mapping time is  8.461236953735352
+mapping iter is  1  and mapping time is  4.569768905639648
+mapping iter is  1  and mapping time is  7.0629119873046875
+mapping iter is  1  and mapping time is  4.727602005004883
+mapping iter is  1  and mapping time is  9.763717651367188
+mapping iter is  1  and mapping time is  15.492439270019531
+mapping iter is  1  and mapping time is  12.456893920898438
+mapping iter is  1  and mapping time is  14.732122421264648
+mapping iter is  1  and mapping time is  15.542745590209961
+mapping iter is  1  and mapping time is  14.693737030029297
+mapping iter is  1  and mapping time is  15.10000228881836
+mapping iter is  1  and mapping time is  12.539863586425781
+mapping iter is  1  and mapping time is  15.236616134643555
+mapping iter is  1  and mapping time is  15.347003936767578
+mapping iter is  1  and mapping time is  14.271736145019531
+mapping iter is  1  and mapping time is  16.547203063964844
+mapping iter is  1  and mapping time is  10.792016983032227
+mapping iter is  1  and mapping time is  11.250019073486328
+mapping iter is  1  and mapping time is  15.058040618896484
+mapping iter is  1  and mapping time is  16.524791717529297
+mapping iter is  1  and mapping time is  14.428853988647461
+mapping iter is  1  and mapping time is  15.92874526977539
+mapping iter is  1  and mapping time is  15.217304229736328
+mapping iter is  1  and mapping time is  14.410257339477539
+mapping iter is  1  and mapping time is  12.865543365478516
+mapping iter is  1  and mapping time is  15.904426574707031
+mapping iter is  1  and mapping time is  10.836362838745117
+mapping iter is  1  and mapping time is  12.973546981811523
+mapping iter is  1  and mapping time is  8.514404296875
+mapping iter is  1  and mapping time is  11.972665786743164
+mapping iter is  1  and mapping time is  15.379190444946289
+mapping iter is  1  and mapping time is  12.214422225952148
+mapping iter is  1  and mapping time is  16.673564910888672
+mapping iter is  1  and mapping time is  15.073776245117188
+mapping iter is  1  and mapping time is  13.310670852661133
+mapping iter is  1  and mapping time is  13.700246810913086
+mapping iter is  1  and mapping time is  17.718076705932617
+mapping iter is  1  and mapping time is  13.12875747680664
+mapping iter is  1  and mapping time is  15.624761581420898
+mapping iter is  1  and mapping time is  17.343521118164062
+mapping iter is  1  and mapping time is  15.744686126708984
+mapping iter is  1  and mapping time is  13.533830642700195
+mapping iter is  1  and mapping time is  13.778209686279297
+mapping iter is  1  and mapping time is  16.297101974487305
+mapping iter is  1  and mapping time is  11.125802993774414
+mapping iter is  1  and mapping time is  4.546403884887695
+create point cloud time is  3.3969879150390625 ms
+mapping iter is  10  and mapping time is  103.41548919677734
+keyframe mapping time is  117.04158782958984
+mapping iter is  1  and mapping time is  23.50473403930664
+mapping iter is  1  and mapping time is  21.084070205688477
+mapping iter is  1  and mapping time is  18.515586853027344
+mapping iter is  1  and mapping time is  22.819995880126953
+mapping iter is  1  and mapping time is  21.67677879333496
+mapping iter is  1  and mapping time is  24.707555770874023
+mapping iter is  1  and mapping time is  21.8808650970459
+mapping iter is  1  and mapping time is  19.999265670776367
+mapping iter is  1  and mapping time is  23.708105087280273
+mapping iter is  1  and mapping time is  20.894527435302734
+mapping iter is  1  and mapping time is  25.67267417907715
+mapping iter is  1  and mapping time is  25.03228187561035
+mapping iter is  1  and mapping time is  21.30126953125
+mapping iter is  1  and mapping time is  22.12381362915039
+mapping iter is  1  and mapping time is  19.482135772705078
+mapping iter is  1  and mapping time is  20.88761329650879
+mapping iter is  1  and mapping time is  25.43783187866211
+mapping iter is  1  and mapping time is  19.658565521240234
+mapping iter is  1  and mapping time is  21.594762802124023
+mapping iter is  1  and mapping time is  21.154403686523438
+mapping iter is  1  and mapping time is  22.908687591552734
+mapping iter is  1  and mapping time is  22.561073303222656
+mapping iter is  1  and mapping time is  17.695903778076172
+mapping iter is  1  and mapping time is  23.96988868713379
+mapping iter is  1  and mapping time is  19.553184509277344
+mapping iter is  1  and mapping time is  8.631706237792969
+mapping iter is  1  and mapping time is  8.85009765625
+mapping iter is  1  and mapping time is  7.658481597900391
+mapping iter is  1  and mapping time is  13.115644454956055
+mapping iter is  1  and mapping time is  19.420862197875977
+mapping iter is  1  and mapping time is  24.32727813720703
+mapping iter is  1  and mapping time is  21.351337432861328
+mapping iter is  1  and mapping time is  17.505407333374023
+mapping iter is  1  and mapping time is  21.716833114624023
+mapping iter is  1  and mapping time is  24.550914764404297
+mapping iter is  1  and mapping time is  19.669294357299805
+mapping iter is  1  and mapping time is  21.088123321533203
+mapping iter is  1  and mapping time is  18.424272537231445
+mapping iter is  1  and mapping time is  24.84297752380371
+mapping iter is  1  and mapping time is  22.0794677734375
+mapping iter is  1  and mapping time is  23.685216903686523
+mapping iter is  1  and mapping time is  19.693851470947266
+mapping iter is  1  and mapping time is  21.48723602294922
+mapping iter is  1  and mapping time is  22.25637435913086
+mapping iter is  1  and mapping time is  22.023677825927734
+mapping iter is  1  and mapping time is  22.810935974121094
+mapping iter is  1  and mapping time is  22.48859405517578
+mapping iter is  1  and mapping time is  19.89006996154785
+mapping iter is  1  and mapping time is  21.183013916015625
+mapping iter is  1  and mapping time is  21.24309539794922
+mapping iter is  1  and mapping time is  23.28205108642578
+mapping iter is  1  and mapping time is  24.63984489440918
+mapping iter is  1  and mapping time is  21.263599395751953
+mapping iter is  1  and mapping time is  19.361495971679688
+mapping iter is  1  and mapping time is  24.050235748291016
+mapping iter is  1  and mapping time is  8.789777755737305
+mapping iter is  1  and mapping time is  13.837099075317383
+mapping iter is  1  and mapping time is  12.64810562133789
+mapping iter is  1  and mapping time is  13.998985290527344
+mapping iter is  1  and mapping time is  12.493133544921875
+mapping iter is  1  and mapping time is  24.979591369628906
+mapping iter is  1  and mapping time is  23.494720458984375
+mapping iter is  1  and mapping time is  20.93029022216797
+mapping iter is  1  and mapping time is  24.199724197387695
+mapping iter is  1  and mapping time is  21.293163299560547
+mapping iter is  1  and mapping time is  39.171457290649414
+mapping iter is  1  and mapping time is  19.698381423950195
+mapping iter is  1  and mapping time is  22.50051498413086
+mapping iter is  1  and mapping time is  23.693323135375977
+mapping iter is  1  and mapping time is  18.907546997070312
+mapping iter is  1  and mapping time is  23.56743812561035
+mapping iter is  1  and mapping time is  18.611669540405273
+mapping iter is  1  and mapping time is  22.685527801513672
+mapping iter is  1  and mapping time is  22.322893142700195
+mapping iter is  1  and mapping time is  22.945404052734375
+mapping iter is  1  and mapping time is  21.596193313598633
+mapping iter is  1  and mapping time is  17.36307144165039
+mapping iter is  1  and mapping time is  25.68817138671875
+mapping iter is  1  and mapping time is  18.15319061279297
+mapping iter is  1  and mapping time is  21.817922592163086
+mapping iter is  1  and mapping time is  23.354530334472656
+mapping iter is  1  and mapping time is  21.25406265258789
+mapping iter is  1  and mapping time is  23.75197410583496
+mapping iter is  1  and mapping time is  15.11073112487793
+mapping iter is  1  and mapping time is  14.914512634277344
+mapping iter is  1  and mapping time is  13.057231903076172
+mapping iter is  1  and mapping time is  8.807182312011719
+mapping iter is  1  and mapping time is  11.618614196777344
+mapping iter is  1  and mapping time is  20.62535285949707
+mapping iter is  1  and mapping time is  22.10831642150879
+mapping iter is  1  and mapping time is  20.33543586730957
+mapping iter is  1  and mapping time is  24.725914001464844
+mapping iter is  1  and mapping time is  19.077301025390625
+mapping iter is  1  and mapping time is  19.954204559326172
+mapping iter is  1  and mapping time is  27.045011520385742
+mapping iter is  1  and mapping time is  24.26886558532715
+mapping iter is  1  and mapping time is  24.509429931640625
+mapping iter is  1  and mapping time is  19.73748207092285
+mapping iter is  1  and mapping time is  25.25019645690918
+mapping iter is  1  and mapping time is  20.218372344970703
+mapping iter is  1  and mapping time is  24.70541000366211
+mapping iter is  1  and mapping time is  20.705699920654297
+mapping iter is  1  and mapping time is  17.709970474243164
+mapping iter is  1  and mapping time is  22.623062133789062
+mapping iter is  1  and mapping time is  21.43263816833496
+mapping iter is  1  and mapping time is  21.760225296020508
+mapping iter is  1  and mapping time is  20.972013473510742
+mapping iter is  1  and mapping time is  21.31032943725586
+mapping iter is  1  and mapping time is  23.537874221801758
+mapping iter is  1  and mapping time is  23.244142532348633
+mapping iter is  1  and mapping time is  22.464513778686523
+mapping iter is  1  and mapping time is  23.183584213256836
+mapping iter is  1  and mapping time is  12.2833251953125
+mapping iter is  1  and mapping time is  12.730836868286133
+mapping iter is  1  and mapping time is  8.960962295532227
+mapping iter is  1  and mapping time is  11.192083358764648
+mapping iter is  1  and mapping time is  13.758182525634766
+mapping iter is  1  and mapping time is  20.459413528442383
+mapping iter is  1  and mapping time is  20.694971084594727
+mapping iter is  1  and mapping time is  25.60734748840332
+mapping iter is  1  and mapping time is  22.189855575561523
+mapping iter is  1  and mapping time is  21.249055862426758
+mapping iter is  1  and mapping time is  19.371747970581055
+mapping iter is  1  and mapping time is  23.751258850097656
+mapping iter is  1  and mapping time is  21.074295043945312
+mapping iter is  1  and mapping time is  21.940946578979492
+mapping iter is  1  and mapping time is  17.05646514892578
+mapping iter is  1  and mapping time is  23.756742477416992
+mapping iter is  1  and mapping time is  21.579980850219727
+mapping iter is  1  and mapping time is  16.353130340576172
+mapping iter is  1  and mapping time is  25.66242218017578
+mapping iter is  1  and mapping time is  21.236419677734375
+mapping iter is  1  and mapping time is  21.515369415283203
+mapping iter is  1  and mapping time is  25.142669677734375
+mapping iter is  1  and mapping time is  19.174575805664062
+mapping iter is  1  and mapping time is  21.986961364746094
+mapping iter is  1  and mapping time is  20.22266387939453
+mapping iter is  1  and mapping time is  16.471385955810547
+mapping iter is  1  and mapping time is  22.86505699157715
+mapping iter is  1  and mapping time is  20.93052864074707
+mapping iter is  1  and mapping time is  25.117874145507812
+mapping iter is  1  and mapping time is  24.596452713012695
+mapping iter is  1  and mapping time is  14.129638671875
+create point cloud time is  3.35693359375 ms
+mapping iter is  10  and mapping time is  234.43174362182617
+keyframe mapping time is  247.27439880371094
+mapping iter is  1  and mapping time is  32.00244903564453
+mapping iter is  1  and mapping time is  26.965856552124023
+mapping iter is  1  and mapping time is  29.857873916625977
+mapping iter is  1  and mapping time is  27.654170989990234
+mapping iter is  1  and mapping time is  28.029680252075195
+mapping iter is  1  and mapping time is  29.309749603271484
+mapping iter is  1  and mapping time is  34.91687774658203
+mapping iter is  1  and mapping time is  29.352664947509766
+mapping iter is  1  and mapping time is  31.76403045654297
+mapping iter is  1  and mapping time is  26.04055404663086
+mapping iter is  1  and mapping time is  29.24346923828125
+mapping iter is  1  and mapping time is  26.262760162353516
+mapping iter is  1  and mapping time is  27.529239654541016
+mapping iter is  1  and mapping time is  16.14522933959961
+mapping iter is  1  and mapping time is  10.882139205932617
+mapping iter is  1  and mapping time is  9.991884231567383
+mapping iter is  1  and mapping time is  13.27371597290039
+mapping iter is  1  and mapping time is  30.565738677978516
+mapping iter is  1  and mapping time is  29.494047164916992
+mapping iter is  1  and mapping time is  29.02817726135254
+mapping iter is  1  and mapping time is  32.96923637390137
+mapping iter is  1  and mapping time is  27.23526954650879
+mapping iter is  1  and mapping time is  30.894994735717773
+mapping iter is  1  and mapping time is  27.39572525024414
+mapping iter is  1  and mapping time is  30.453205108642578
+mapping iter is  1  and mapping time is  26.128053665161133
+mapping iter is  1  and mapping time is  27.901649475097656
+mapping iter is  1  and mapping time is  29.04224395751953
+mapping iter is  1  and mapping time is  27.393102645874023begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  76
+Frontend !!! Tracking and refining exposure cost  473.6897945404053 ms
+Frontend !!! Judge Kf cost  4.317760467529297 ms
+current window is  [0]
+begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  67
+Frontend !!! Tracking and refining exposure cost  286.53764724731445 ms
+Frontend !!! Judge Kf cost  1.5189647674560547 ms
+current window is  [0]
+begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  65
+Frontend !!! Tracking and refining exposure cost  291.9752597808838 ms
+Frontend !!! Judge Kf cost  6.740331649780273 ms
+current window is  [0]
+begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  68
+Frontend !!! Tracking and refining exposure cost  305.9380054473877 ms
+Frontend !!! Judge Kf cost  4.559040069580078 ms
+current window is  [0]
+begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  72
+Frontend !!! Tracking and refining exposure cost  324.94616508483887 ms
+Frontend !!! Judge Kf cost  6.540536880493164 ms
+current window is  [0]
+begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  72
+Frontend !!! Tracking and refining exposure cost  312.4263286590576 ms
+Frontend !!! Judge Kf cost  5.692958831787109 ms
+current window is  [0]
+begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  76
+Frontend !!! Tracking and refining exposure cost  333.6970806121826 ms
+Frontend !!! Judge Kf cost  4.362821578979492 ms
+current window is  [0]
+begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  77
+Frontend !!! Tracking and refining exposure cost  331.86817169189453 ms
+Frontend !!! Judge Kf cost  8.297204971313477 ms
+current window is  [0]
+begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  88
+Frontend !!! Tracking and refining exposure cost  380.97572326660156 ms
+Frontend !!! Judge Kf cost  6.288766860961914 ms
+current window is  [0]
+begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  78
+Frontend !!! Tracking and refining exposure cost  353.560209274292 ms
+Frontend !!! Judge Kf cost  5.948305130004883 ms
+current window is  [0]
+begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  74
+Frontend !!! Tracking and refining exposure cost  385.6475353240967 ms
+Frontend !!! Judge Kf cost  4.617929458618164 ms
+current window is  [0]
+begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  73
+Frontend !!! Tracking and refining exposure cost  319.69356536865234 ms
+Frontend !!! Judge Kf cost  1.5137195587158203 ms
+current window is  [0]
+begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  54
+Frontend !!! Tracking and refining exposure cost  241.67394638061523 ms
+Frontend !!! Judge Kf cost  1.802682876586914 ms
+current window is  [0]
+begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  72
+Frontend !!! Tracking and refining exposure cost  325.78492164611816 ms
+Frontend !!! Judge Kf cost  1.8019676208496094 ms
+current window is  [0]
+begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  70
+Frontend !!! Tracking and refining exposure cost  312.40177154541016 ms
+Frontend !!! Judge Kf cost  3.0159950256347656 ms
+current window is  [0]
+Frontend !!! Create Kf cost  1.0170936584472656 ms
+current gaussian size  is  torch.Size([27105, 3])
+begin tracking and cur gaussian size is  torch.Size([27105, 3])
+Tracking converged and actual tracking iters is  83
+Frontend !!! Tracking and refining exposure cost  668.4472560882568 ms
+begin tracking and cur gaussian size is  torch.Size([28804, 3])
+Tracking converged and actual tracking iters is  76
+Frontend !!! Tracking and refining exposure cost  523.7443447113037 ms
+Frontend !!! Judge Kf cost  6.8302154541015625 ms
+current window is  [15, 0]
+begin tracking and cur gaussian size is  torch.Size([16821, 3])
+Tracking converged and actual tracking iters is  77
+Frontend !!! Tracking and refining exposure cost  488.9333248138428 ms
+Frontend !!! Judge Kf cost  6.848573684692383 ms
+current window is  [15, 0]
+begin tracking and cur gaussian size is  torch.Size([16821, 3])
+Tracking converged and actual tracking iters is  89
+Frontend !!! Tracking and refining exposure cost  565.831184387207 ms
+Frontend !!! Judge Kf cost  8.326530456542969 ms
+current window is  [15, 0]
+begin tracking and cur gaussian size is  torch.Size([16821, 3])
+Tracking converged and actual tracking iters is  95
+Frontend !!! Tracking and refining exposure cost  594.0887928009033 ms
+Frontend !!! Judge Kf cost  6.2885284423828125 ms
+current window is  [15, 0]
+begin tracking and cur gaussian size is  torch.Size([18716, 3])
+Frontend !!! Tracking and refining exposure cost  643.1105136871338 ms
+Frontend !!! Judge Kf cost  5.810260772705078 ms
+current window is  [15, 0]
+Frontend !!! Create Kf cost  1.6741752624511719 ms
+current gaussian size  is  torch.Size([18716, 3])
+begin tracking and cur gaussian size is  torch.Size([18716, 3])
+Frontend !!! Tracking and refining exposure cost  626.6028881072998 ms
+begin tracking and cur gaussian size is  torch.Size([20336, 3])
+Frontend !!! Tracking and refining exposure cost  642.4667835235596 ms
+Frontend !!! Judge Kf cost  10.410785675048828 ms
+current window is  [21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([20336, 3])
+Frontend !!! Tracking and refining exposure cost  615.8814430236816 ms
+Frontend !!! Judge Kf cost  8.855342864990234 ms
+current window is  [21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([21529, 3])
+Frontend !!! Tracking and refining exposure cost  603.8563251495361 ms
+Frontend !!! Judge Kf cost  6.250858306884766 ms
+current window is  [21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([21529, 3])
+Frontend !!! Tracking and refining exposure cost  629.1418075561523 ms
+Frontend !!! Judge Kf cost  7.497310638427734 ms
+current window is  [21, 15, 0]
+Frontend !!! Create Kf cost  1.9145011901855469 ms
+current gaussian size  is  torch.Size([21529, 3])
+begin tracking and cur gaussian size is  torch.Size([21529, 3])
+Frontend !!! Tracking and refining exposure cost  639.4996643066406 ms
+begin tracking and cur gaussian size is  torch.Size([22981, 3])
+Frontend !!! Tracking and refining exposure cost  658.5619449615479 ms
+Frontend !!! Judge Kf cost  8.072614669799805 ms
+current window is  [26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([22981, 3])
+Frontend !!! Tracking and refining exposure cost  618.302583694458 ms
+Frontend !!! Judge Kf cost  8.803367614746094 ms
+current window is  [26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([24431, 3])
+Frontend !!! Tracking and refining exposure cost  637.6907825469971 ms
+Frontend !!! Judge Kf cost  10.107040405273438 ms
+current window is  [26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([24431, 3])
+Frontend !!! Tracking and refining exposure cost  620.9156513214111 ms
+Frontend !!! Judge Kf cost  9.97471809387207 ms
+current window is  [26, 21, 15, 0]
+Frontend !!! Create Kf cost  2.641439437866211 ms
+current gaussian size  is  torch.Size([24431, 3])
+MonoGS: Evaluating ATE at frame:  32
+Eval: RMSE ATE [m] 0.003945415279845652
+
+mapping iter is  1  and mapping time is  29.352426528930664
+mapping iter is  1  and mapping time is  32.265424728393555
+mapping iter is  1  and mapping time is  29.160737991333008
+mapping iter is  1  and mapping time is  30.379056930541992
+mapping iter is  1  and mapping time is  24.69944953918457
+mapping iter is  1  and mapping time is  34.705400466918945
+mapping iter is  1  and mapping time is  26.74579620361328
+mapping iter is  1  and mapping time is  32.23299980163574
+mapping iter is  1  and mapping time is  16.059160232543945
+mapping iter is  1  and mapping time is  10.900259017944336
+mapping iter is  1  and mapping time is  10.511159896850586
+mapping iter is  1  and mapping time is  26.17025375366211
+mapping iter is  1  and mapping time is  29.63089942932129
+mapping iter is  1  and mapping time is  28.568506240844727
+mapping iter is  1  and mapping time is  30.302047729492188
+mapping iter is  1  and mapping time is  32.639265060424805
+mapping iter is  1  and mapping time is  31.130552291870117
+mapping iter is  1  and mapping time is  29.517650604248047
+mapping iter is  1  and mapping time is  31.172990798950195
+mapping iter is  1  and mapping time is  30.695676803588867
+mapping iter is  1  and mapping time is  45.027971267700195
+mapping iter is  1  and mapping time is  31.769275665283203
+mapping iter is  1  and mapping time is  29.581308364868164
+mapping iter is  1  and mapping time is  33.91242027282715
+mapping iter is  1  and mapping time is  30.720233917236328
+mapping iter is  1  and mapping time is  25.684356689453125
+mapping iter is  1  and mapping time is  33.73456001281738
+mapping iter is  1  and mapping time is  24.733543395996094
+mapping iter is  1  and mapping time is  31.694889068603516
+mapping iter is  1  and mapping time is  21.880388259887695
+mapping iter is  1  and mapping time is  11.690139770507812
+mapping iter is  1  and mapping time is  16.50834083557129
+mapping iter is  1  and mapping time is  27.21881866455078
+mapping iter is  1  and mapping time is  29.120683670043945
+mapping iter is  1  and mapping time is  28.046369552612305
+mapping iter is  1  and mapping time is  32.17887878417969
+mapping iter is  1  and mapping time is  28.716564178466797
+mapping iter is  1  and mapping time is  29.341936111450195
+mapping iter is  1  and mapping time is  26.285409927368164
+mapping iter is  1  and mapping time is  30.75242042541504
+mapping iter is  1  and mapping time is  30.808448791503906
+mapping iter is  1  and mapping time is  31.495332717895508
+mapping iter is  1  and mapping time is  28.220653533935547
+mapping iter is  1  and mapping time is  29.503345489501953
+mapping iter is  1  and mapping time is  27.550458908081055
+mapping iter is  1  and mapping time is  29.927968978881836
+mapping iter is  1  and mapping time is  25.61330795288086
+mapping iter is  1  and mapping time is  25.170326232910156
+mapping iter is  1  and mapping time is  30.44605255126953
+mapping iter is  1  and mapping time is  33.32686424255371
+mapping iter is  1  and mapping time is  27.63819694519043
+mapping iter is  1  and mapping time is  19.25969123840332
+mapping iter is  1  and mapping time is  18.898725509643555
+mapping iter is  1  and mapping time is  16.6015625
+mapping iter is  1  and mapping time is  13.072013854980469
+mapping iter is  1  and mapping time is  24.65200424194336
+mapping iter is  1  and mapping time is  31.162261962890625
+mapping iter is  1  and mapping time is  32.923221588134766
+mapping iter is  1  and mapping time is  30.76314926147461
+mapping iter is  1  and mapping time is  27.51469612121582
+mapping iter is  1  and mapping time is  28.68485450744629
+mapping iter is  1  and mapping time is  30.115365982055664
+mapping iter is  1  and mapping time is  28.15556526184082
+mapping iter is  1  and mapping time is  31.516313552856445
+mapping iter is  1  and mapping time is  28.310060501098633
+mapping iter is  1  and mapping time is  29.456615447998047
+mapping iter is  1  and mapping time is  29.9990177154541
+mapping iter is  1  and mapping time is  31.038522720336914
+mapping iter is  1  and mapping time is  24.31178092956543
+mapping iter is  1  and mapping time is  28.3358097076416
+mapping iter is  1  and mapping time is  34.229278564453125
+mapping iter is  1  and mapping time is  30.90071678161621
+mapping iter is  1  and mapping time is  27.870655059814453
+mapping iter is  1  and mapping time is  18.24021339416504
+mapping iter is  1  and mapping time is  13.819694519042969
+create point cloud time is  2.6929378509521484 ms
+mapping iter is  10  and mapping time is  143.3699131011963
+keyframe mapping time is  149.66917037963867
+mapping iter is  1  and mapping time is  22.79829978942871
+mapping iter is  1  and mapping time is  14.818906784057617
+mapping iter is  1  and mapping time is  13.77105712890625
+mapping iter is  1  and mapping time is  35.584449768066406
+mapping iter is  1  and mapping time is  38.8948917388916
+mapping iter is  1  and mapping time is  35.907745361328125
+mapping iter is  1  and mapping time is  34.6837043762207
+mapping iter is  1  and mapping time is  35.18986701965332
+mapping iter is  1  and mapping time is  29.74247932434082
+mapping iter is  1  and mapping time is  36.03816032409668
+mapping iter is  1  and mapping time is  38.907766342163086
+mapping iter is  1  and mapping time is  34.84344482421875
+mapping iter is  1  and mapping time is  35.5534553527832
+mapping iter is  1  and mapping time is  38.11931610107422
+mapping iter is  1  and mapping time is  36.83280944824219
+mapping iter is  1  and mapping time is  32.016754150390625
+mapping iter is  1  and mapping time is  37.232160568237305
+mapping iter is  1  and mapping time is  34.720659255981445
+mapping iter is  1  and mapping time is  36.51070594787598
+mapping iter is  1  and mapping time is  16.345739364624023
+mapping iter is  1  and mapping time is  14.384746551513672
+mapping iter is  1  and mapping time is  24.58477020263672
+mapping iter is  1  and mapping time is  39.44110870361328
+mapping iter is  1  and mapping time is  32.98640251159668
+mapping iter is  1  and mapping time is  34.835100173950195
+mapping iter is  1  and mapping time is  36.832571029663086
+mapping iter is  1  and mapping time is  36.135196685791016
+mapping iter is  1  and mapping time is  30.486106872558594
+mapping iter is  1  and mapping time is  35.46905517578125
+mapping iter is  1  and mapping time is  36.542654037475586
+mapping iter is  1  and mapping time is  36.58556938171387
+mapping iter is  1  and mapping time is  35.38203239440918
+mapping iter is  1  and mapping time is  38.76209259033203
+mapping iter is  1  and mapping time is  31.168222427368164
+mapping iter is  1  and mapping time is  33.0042839050293
+mapping iter is  1  and mapping time is  34.33704376220703
+mapping iter is  1  and mapping time is  36.191463470458984
+mapping iter is  1  and mapping time is  35.94493865966797
+mapping iter is  1  and mapping time is  24.72209930419922
+mapping iter is  1  and mapping time is  21.065235137939453
+mapping iter is  1  and mapping time is  19.606351852416992
+mapping iter is  1  and mapping time is  23.556232452392578
+mapping iter is  1  and mapping time is  35.69293022155762
+mapping iter is  1  and mapping time is  29.622554779052734
+mapping iter is  1  and mapping time is  35.74109077453613
+mapping iter is  1  and mapping time is  36.48948669433594
+mapping iter is  1  and mapping time is  34.55162048339844
+mapping iter is  1  and mapping time is  35.24637222290039
+mapping iter is  1  and mapping time is  33.33020210266113
+mapping iter is  1  and mapping time is  35.90536117553711
+mapping iter is  1  and mapping time is  38.0094051361084
+mapping iter is  1  and mapping time is  34.51800346374512
+mapping iter is  1  and mapping time is  36.24916076660156
+mapping iter is  1  and mapping time is  38.17391395568848
+mapping iter is  1  and mapping time is  34.88421440124512
+mapping iter is  1  and mapping time is  32.01556205749512
+mapping iter is  1  and mapping time is  33.521413803100586
+mapping iter is  1  and mapping time is  28.085708618164062
+mapping iter is  1  and mapping time is  21.416902542114258
+mapping iter is  1  and mapping time is  19.61493492126465
+mapping iter is  1  and mapping time is  38.96284103393555
+mapping iter is  1  and mapping time is  32.01436996459961
+mapping iter is  1  and mapping time is  34.3015193939209
+mapping iter is  1  and mapping time is  37.217140197753906
+mapping iter is  1  and mapping time is  34.12008285522461
+mapping iter is  1  and mapping time is  33.23936462402344
+mapping iter is  1  and mapping time is  35.61067581176758
+mapping iter is  1  and mapping time is  38.843393325805664
+mapping iter is  1  and mapping time is  30.826568603515625
+mapping iter is  1  and mapping time is  31.50177001953125
+mapping iter is  1  and mapping time is  36.078691482543945
+mapping iter is  1  and mapping time is  51.34463310241699
+mapping iter is  1  and mapping time is  38.34724426269531
+mapping iter is  1  and mapping time is  39.560794830322266
+mapping iter is  1  and mapping time is  31.399011611938477
+mapping iter is  1  and mapping time is  12.225866317749023
+mapping iter is  1  and mapping time is  25.277137756347656
+mapping iter is  1  and mapping time is  23.200035095214844
+mapping iter is  1  and mapping time is  28.264522552490234
+mapping iter is  1  and mapping time is  37.06622123718262
+mapping iter is  1  and mapping time is  35.143375396728516
+mapping iter is  1  and mapping time is  32.039642333984375
+mapping iter is  1  and mapping time is  35.39299964904785
+mapping iter is  1  and mapping time is  35.60686111450195
+mapping iter is  1  and mapping time is  28.39183807373047
+mapping iter is  1  and mapping time is  35.55417060852051
+mapping iter is  1  and mapping time is  35.73465347290039
+mapping iter is  1  and mapping time is  37.68634796142578
+mapping iter is  1  and mapping time is  38.01274299621582
+mapping iter is  1  and mapping time is  35.04681587219238
+mapping iter is  1  and mapping time is  36.80825233459473
+mapping iter is  1  and mapping time is  30.02023696899414
+mapping iter is  1  and mapping time is  44.00134086608887
+mapping iter is  1  and mapping time is  20.633459091186523
+mapping iter is  1  and mapping time is  21.465063095092773
+create point cloud time is  2.974271774291992 ms
+mapping iter is  10  and mapping time is  407.31239318847656
+keyframe mapping time is  435.63103675842285
+mapping iter is  1  and mapping time is  39.81804847717285
+mapping iter is  1  and mapping time is  43.355464935302734
+mapping iter is  1  and mapping time is  38.364410400390625
+mapping iter is  1  and mapping time is  45.702219009399414
+mapping iter is  1  and mapping time is  41.37253761291504
+mapping iter is  1  and mapping time is  18.667221069335938
+mapping iter is  1  and mapping time is  23.856639862060547
+mapping iter is  1  and mapping time is  30.23052215576172
+mapping iter is  1  and mapping time is  45.330047607421875
+mapping iter is  1  and mapping time is  37.3835563659668
+mapping iter is  1  and mapping time is  32.64117240905762
+mapping iter is  1  and mapping time is  38.67673873901367
+mapping iter is  1  and mapping time is  43.504953384399414
+mapping iter is  1  and mapping time is  47.7142333984375
+mapping iter is  1  and mapping time is  36.98587417602539
+mapping iter is  1  and mapping time is  43.89190673828125
+mapping iter is  1  and mapping time is  41.82624816894531
+mapping iter is  1  and mapping time is  44.56043243408203
+mapping iter is  1  and mapping time is  35.43710708618164
+mapping iter is  1  and mapping time is  42.70505905151367
+mapping iter is  1  and mapping time is  42.513370513916016
+mapping iter is  1  and mapping time is  21.81077003479004
+mapping iter is  1  and mapping time is  15.158414840698242
+mapping iter is  1  and mapping time is  19.6225643157959
+mapping iter is  1  and mapping time is  40.96698760986328
+mapping iter is  1  and mapping time is  36.7584228515625
+mapping iter is  1  and mapping time is  48.89249801635742
+mapping iter is  1  and mapping time is  43.871402740478516
+mapping iter is  1  and mapping time is  43.44892501831055
+mapping iter is  1  and mapping time is  44.975996017456055
+mapping iter is  1  and mapping time is  39.90674018859863
+mapping iter is  1  and mapping time is  45.78375816345215
+mapping iter is  1  and mapping time is  40.52090644836426
+mapping iter is  1  and mapping time is  36.47637367248535
+mapping iter is  1  and mapping time is  40.85588455200195
+mapping iter is  1  and mapping time is  40.85969924926758
+mapping iter is  1  and mapping time is  46.03123664855957
+mapping iter is  1  and mapping time is  41.4736270904541
+mapping iter is  1  and mapping time is  19.45781707763672
+mapping iter is  1  and mapping time is  15.75326919555664
+mapping iter is  1  and mapping time is  43.78700256347656
+mapping iter is  1  and mapping time is  31.120777130126953
+mapping iter is  1  and mapping time is  40.50493240356445
+mapping iter is  1  and mapping time is  39.90459442138672
+mapping iter is  1  and mapping time is  42.36769676208496
+mapping iter is  1  and mapping time is  43.97892951965332
+mapping iter is  1  and mapping time is  42.14811325073242
+mapping iter is  1  and mapping time is  46.20981216430664
+mapping iter is  1  and mapping time is  43.61104965209961
+mapping iter is  1  and mapping time is  40.740013122558594
+mapping iter is  1  and mapping time is  39.90316390991211
+mapping iter is  1  and mapping time is  44.65150833129883
+mapping iter is  1  and mapping time is  54.15463447570801
+mapping iter is  1  and mapping time is  17.826080322265625
+mapping iter is  1  and mapping time is  23.550748825073242
+mapping iter is  1  and mapping time is  20.627260208129883
+mapping iter is  1  and mapping time is  29.01315689086914
+mapping iter is  1  and mapping time is  40.5576229095459
+mapping iter is  1  and mapping time is  43.10274124145508
+mapping iter is  1  and mapping time is  38.93852233886719
+mapping iter is  1  and mapping time is  40.47036170959473
+mapping iter is  1  and mapping time is  41.744232177734375
+mapping iter is  1  and mapping time is  41.445255279541016
+mapping iter is  1  and mapping time is  44.843196868896484
+mapping iter is  1  and mapping time is  44.5859432220459
+mapping iter is  1  and mapping time is  40.8782958984375
+mapping iter is  1  and mapping time is  37.02259063720703
+mapping iter is  1  and mapping time is  44.50678825378418
+mapping iter is  1  and mapping time is  39.47257995605469
+mapping iter is  1  and mapping time is  30.042648315429688
+mapping iter is  1  and mapping time is  25.687694549560547
+create point cloud time is  3.2215118408203125 ms
+mapping iter is  10  and mapping time is  428.2958507537842
+keyframe mapping time is  462.7721309661865
+mapping iter is  1  and mapping time is  53.61032485961914
+mapping iter is  1  and mapping time is  47.59716987609863
+mapping iter is  1  and mapping time is  48.32744598388672
+mapping iter is  1  and mapping time is  33.92148017883301
+mapping iter is  1  and mapping time is  17.80104637145996
+mapping iter is  1  and mapping time is  25.146007537841797
+mapping iter is  1  and mapping time is  45.22991180419922
+mapping iter is  1  and mapping time is  64.90659713745117
+mapping iter is  1  and mapping time is  48.697471618652344
+mapping iter is  1  and mapping time is  48.23422431945801
+mapping iter is  1  and mapping time is  54.06546592712402
+mapping iter is  1  and mapping time is  51.82981491088867
+mapping iter is  1  and mapping time is  48.36630821228027
+mapping iter is  1  and mapping time is  51.62167549133301
+mapping iter is  1  and mapping time is  48.50435256958008
+mapping iter is  1  and mapping time is  47.63531684875488
+mapping iter is  1  and mapping time is  43.17593574523926
+mapping iter is  1  and mapping time is  26.984214782714844
+mapping iter is  1  and mapping time is  18.370389938354492
+mapping iter is  1  and mapping time is  31.81314468383789
+mapping iter is  1  and mapping time is  48.239707946777344
+mapping iter is  1  and mapping time is  53.14803123474121
+mapping iter is  1  and mapping time is  63.91096115112305
+mapping iter is  1  and mapping time is  45.96757888793945
+mapping iter is  1  and mapping time is  57.07383155822754
+mapping iter is  1  and mapping time is  51.043033599853516
+mapping iter is  1  and mapping time is  46.08964920043945
+mapping iter is  1  and mapping time is  48.57444763183594
+mapping iter is  1  and mapping time is  51.0101318359375
+mapping iter is  1  and mapping time is  49.77989196777344
+mapping iter is  1  and mapping time is  29.009342193603516
+mapping iter is  1  and mapping time is  23.34308624267578
+mapping iter is  1  and mapping time is  40.36092758178711
+mapping iter is  1  and mapping time is  52.86145210266113
+mapping iter is  1  and mapping time is  49.63517189025879
+mapping iter is  1  and mapping time is  47.4238395690918
+mapping iter is  1  and mapping time is  50.78721046447754
+mapping iter is  1  and mapping time is  47.75595664978027
+mapping iter is  1  and mapping time is  52.054405212402344
+mapping iter is  1  and mapping time is  48.41136932373047
+mapping iter is  1  and mapping time is  52.437782287597656
+mapping iter is  1  and mapping time is  46.68712615966797
+mapping iter is  1  and mapping time is  48.34461212158203
+mapping iter is  1  and mapping time is  29.553651809692383
+mapping iter is  1  and mapping time is  34.81578826904297
+mapping iter is  1  and mapping time is  25.057077407836914
+mapping iter is  1  and mapping time is  46.52118682861328
+mapping iter is  1  and mapping time is  45.52936553955078
+mapping iter is  1  and mapping time is  50.02593994140625
+mapping iter is  1  and mapping time is  50.110578536987305
+mapping iter is  1  and mapping time is  54.6872615814209
+mapping iter is  1  and mapping time is  52.65307426452637
+mapping iter is  1  and mapping time is  57.13701248168945
+mapping iter is  1  and mapping time is  49.94392395019531
+mapping iter is  1  and mapping time is  45.717716217041016
+mapping iter is  1  and mapping time is  41.65387153625488
+mapping iter is  1  and mapping time is  52.00791358947754
+mapping iter is  1  and mapping time is  23.639678955078125
+mapping iter is  1  and mapping time is  25.644779205322266
+create point cloud time is  2.8247833251953125 ms
+mapping iter is  10  and mapping time is  520.4236507415771
+keyframe mapping time is  557.8436851501465
+mapping iter is  1  and mapping time is  52.971839904785156
+mapping iter is  1  and mapping time is  22.31907844543457
+mapping iter is  1  and mapping time is  22.824525833129883
+mapping iter is  1  and mapping time is  28.401851654052734
+mapping iter is  1  and mapping time is  58.35700035095215
+mapping iter is  1  and mapping time is  54.10885810852051
+mapping iter is  1  and mapping time is  56.82635307312012
+mapping iter is  1  and mapping time is  51.51534080505371
+mapping iter is  1  and mapping time is  56.31065368652344
+mapping iter is  1  and mapping time is  57.41453170776367
+mapping iter is  1  and mapping time is  56.537628173828125
+mapping iter is  1  and mapping time is  48.35224151611328
+mapping iter is  1  and mapping time is  30.41386604309082
+mapping iter is  1  and mapping time is  23.185014724731445
+mapping iter is  1  and mapping time is  33.57243537902832
+mapping iter is  1  and mapping time is  51.30815505981445
+mapping iter is  1  and mapping time is  52.2608757019043
+mapping iter is  1  and mapping time is  54.405927658081055
+mapping iter is  1  and mapping time is  53.92765998840332
+mapping iter is  1  and mapping time is  53.990840911865234
+mapping iter is  1  and mapping time is  52.24013328552246
+mapping iter is  1  and mapping time is  49.958229064941406
+mapping iter is  1  and mapping time is  55.38010597229004
+mapping iter is  1  and mapping time is  27.486801147460938
+mapping iter is  1  and mapping time is  23.242473602294922
+mapping iter is  1  and mapping time is  56.42414093017578
+mapping iter is  1  and mapping time is  53.35688591003418
+mapping iter is  1  and mapping time is  53.45916748046875
+mapping iter is  1  and mapping time is  56.84089660644531
+mapping iter is  1  and mapping time is  52.89196968078613
+mapping iter is  1  and mapping time is  56.722402572631836
+mapping iter is  1  and mapping time is  52.710771560668945
+mapping iter is  1  and mapping time is  52.747488021850586
+mapping iter is  1  and mapping time is  31.4786434173584
+mapping iter is  1  and mapping time is  23.835182189941406
+mapping iter is  1  and mapping time is  31.10194206237793
+mapping iter is  1  and mapping time is  57.985782623291016
+mapping iter is  1  and mapping time is  58.14480781555176
+mapping iter is  1  and mapping time is  61.097145080566406
+mapping iter is  1  and mapping time is  53.39360237121582
+mapping iter is  1  and mapping time is  59.69595909118652
+mapping iter is  1  and mapping time is  55.767059326171875
+mapping iter is  1  and mapping time is  56.95652961730957
+mapping iter is  1  and mapping time is  49.460649490356445
+mapping iter is  1  and mapping time is  23.212671279907227
+mapping iter is  1  and mapping time is  25.61497688293457
+mapping iter is  1  and mapping time is  37.76836395263672
+mapping iter is  1  and mapping time is  47.71685600280762
+mapping iter is  1  and mapping time is  56.185007095336914
+mapping iter is  1  and mapping time is  54.772138595581055
+mapping iter is  1  and mapping time is  59.995174407958984
+mapping iter is  1  and mapping time is  53.679704666137695
+mapping iter is  1  and mapping time is  53.354501724243164
+mapping iter is  1  and mapping time is  55.47928810119629
+mapping iter is  1  and mapping time is  51.66959762573242
+mapping iter is  1  and mapping time is  42.21701622009277
+mapping iter is  1  and mapping time is  25.922060012817383
+mapping iter is  1  and mapping time is  31.654834747314453
+mapping iter is  1  and mapping time is  56.511640548706055
+mapping iter is  1  and mapping time is  56.62703514099121
+mapping iter is  1  and mapping time is  49.41129684448242
+mapping iter is  1  and mapping time is  49.7593879699707
+mapping iter is  1  and mapping time is  57.76858329772949
+mapping iter is  1  and mapping time is  54.563283920288086
+mapping iter is  1  and mapping time is  54.75020408630371
+mapping iter is  1  and mapping time is  34.23118591308594
+mapping iter is  1  and mapping time is  49.22294616699219
+create point cloud time is  5.352258682250977 ms
+mapping iter is  10  and mapping time is  583.6184024810791
+keyframe mapping time is  629.3494701385498
+mapping iter is  1  and mapping time is  36.79847717285156
+mapping iter is  1  and mapping time is  35.040855407714844
+mapping iter is  1  and mapping time is  61.63454055786133
+mapping iter is  1  and mapping time is  63.60960006713867
+mapping iter is  1  and mapping time is  61.35678291320801
+mapping iter is  1  and mapping time is  57.66439437866211
+mapping iter is  1  and mapping time is  62.10184097290039
+mapping iter is  1  and mapping time is  58.94017219543457
+mapping iter is  1  and mapping time is  59.808969497680664
+mapping iter is  1  and mapping time is  60.933828353881836
+mapping iter is  1  and mapping time is  59.28754806518555
+mapping iter is  1  and mapping time is  30.55548667907715
+mapping iter is  1  and mapping time is  31.79311752319336
+mapping iter is  1  and mapping time is  61.45358085632324
+mapping iter is  1  and mapping time is  80.56998252868652
+MonoGS: Resetting the opacity of non-visible Gaussians
+begin tracking and cur gaussian size is  torch.Size([25993, 3])
+Frontend !!! Tracking and refining exposure cost  631.7355632781982 ms
+Frontend !!! Judge Kf cost  14.818191528320312 ms
+current window is  [31, 26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([25993, 3])
+Frontend !!! Tracking and refining exposure cost  639.6381855010986 ms
+Frontend !!! Judge Kf cost  34.154415130615234 ms
+current window is  [31, 26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([25993, 3])
+Frontend !!! Tracking and refining exposure cost  623.8338947296143 ms
+Frontend !!! Judge Kf cost  13.961076736450195 ms
+current window is  [31, 26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([25993, 3])
+Frontend !!! Tracking and refining exposure cost  617.8202629089355 ms
+Frontend !!! Judge Kf cost  22.556304931640625 ms
+current window is  [31, 26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([25993, 3])
+Frontend !!! Tracking and refining exposure cost  618.9227104187012 ms
+Frontend !!! Judge Kf cost  18.238306045532227 ms
+current window is  [31, 26, 21, 15, 0]
+Frontend !!! Create Kf cost  2.8569698333740234 ms
+current gaussian size  is  torch.Size([25993, 3])
+begin tracking and cur gaussian size is  torch.Size([26263, 3])
+Frontend !!! Tracking and refining exposure cost  652.6186466217041 ms
+begin tracking and cur gaussian size is  torch.Size([27770, 3])
+Frontend !!! Tracking and refining exposure cost  641.6511535644531 ms
+Frontend !!! Judge Kf cost  23.049354553222656 ms
+current window is  [36, 31, 26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([27770, 3])
+Frontend !!! Tracking and refining exposure cost  648.3559608459473 ms
+Frontend !!! Judge Kf cost  16.840219497680664 ms
+current window is  [36, 31, 26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([27770, 3])
+Frontend !!! Tracking and refining exposure cost  630.0516128540039 ms
+Frontend !!! Judge Kf cost  19.557476043701172 ms
+current window is  [36, 31, 26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([27770, 3])
+Frontend !!! Tracking and refining exposure cost  607.97119140625 ms
+Frontend !!! Judge Kf cost  22.1250057220459 ms
+current window is  [36, 31, 26, 21, 15, 0]
+Frontend !!! Create Kf cost  3.259420394897461 ms
+current gaussian size  is  torch.Size([27770, 3])
+begin tracking and cur gaussian size is  torch.Size([27770, 3])
+Frontend !!! Tracking and refining exposure cost  634.432315826416 ms
+begin tracking and cur gaussian size is  torch.Size([29390, 3])
+Frontend !!! Tracking and refining exposure cost  624.6931552886963 ms
+Frontend !!! Judge Kf cost  26.135683059692383 ms
+current window is  [41, 36, 31, 26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([29390, 3])
+Frontend !!! Tracking and refining exposure cost  622.4932670593262 ms
+Frontend !!! Judge Kf cost  13.954877853393555 ms
+current window is  [41, 36, 31, 26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([29644, 3])
+Frontend !!! Tracking and refining exposure cost  618.3385848999023 ms
+Frontend !!! Judge Kf cost  16.263484954833984 ms
+current window is  [41, 36, 31, 26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([29644, 3])
+Frontend !!! Tracking and refining exposure cost  630.1083564758301 ms
+Frontend !!! Judge Kf cost  19.33145523071289 ms
+current window is  [41, 36, 31, 26, 21, 15, 0]
+Frontend !!! Create Kf cost  3.3807754516601562 ms
+current gaussian size  is  torch.Size([29644, 3])
+begin tracking and cur gaussian size is  torch.Size([29644, 3])
+Frontend !!! Tracking and refining exposure cost  629.3647289276123 ms
+begin tracking and cur gaussian size is  torch.Size([31288, 3])
+Tracking converged and actual tracking iters is  84
+Frontend !!! Tracking and refining exposure cost  546.0090637207031 ms
+Frontend !!! Judge Kf cost  19.389867782592773 ms
+current window is  [46, 41, 36, 31, 26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([31288, 3])
+Tracking converged and actual tracking iters is  80
+Frontend !!! Tracking and refining exposure cost  529.4022560119629 ms
+Frontend !!! Judge Kf cost  4.0130615234375 ms
+current window is  [46, 41, 36, 31, 26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([31288, 3])
+Tracking converged and actual tracking iters is  83
+Frontend !!! Tracking and refining exposure cost  532.8245162963867 ms
+Frontend !!! Judge Kf cost  24.640560150146484 ms
+current window is  [46, 41, 36, 31, 26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([31288, 3])
+Tracking converged and actual tracking iters is  85
+Frontend !!! Tracking and refining exposure cost  537.9846096038818 ms
+Frontend !!! Judge Kf cost  20.112037658691406 ms
+current window is  [46, 41, 36, 31, 26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([31288, 3])
+Tracking converged and actual tracking iters is  88
+Frontend !!! Tracking and refining exposure cost  572.5109577178955 ms
+Frontend !!! Judge Kf cost  17.520666122436523 ms
+current window is  [46, 41, 36, 31, 26, 21, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([31288, 3])
+Tracking converged and actual tracking iters is  71
+Frontend !!! Tracking and refining exposure cost  472.90706634521484 ms
+Frontend !!! Judge Kf cost  2.979278564453125 ms
+current window is  [46, 41, 36, 31, 26, 21, 15, 0]
+Frontend !!! Create Kf cost  77.49366760253906 ms
+current gaussian size  is  torch.Size([31288, 3])
+begin tracking and cur gaussian size is  torch.Size([31288, 3])
+Tracking converged and actual tracking iters is  99
+Frontend !!! Tracking and refining exposure cost  633.4259510040283 ms
+begin tracking and cur gaussian size is  torch.Size([32918, 3])
+Frontend !!! Tracking and refining exposure cost  634.6914768218994 ms
+Frontend !!! Judge Kf cost  25.478601455688477 ms
+current window is  [53, 46, 41, 36, 31, 26, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([32918, 3])
+Frontend !!! Tracking and refining exposure cost  623.8629817962646 ms
+Frontend !!! Judge Kf cost  17.457008361816406 ms
+current window is  [53, 46, 41, 36, 31, 26, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([32659, 3])
+Frontend !!! Tracking and refining exposure cost  656.3858985900879 ms
+Frontend !!! Judge Kf cost  25.42400360107422 ms
+current window is  [53, 46, 41, 36, 31, 26, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([32659, 3])
+Frontend !!! Tracking and refining exposure cost  642.3561573028564 ms
+Frontend !!! Judge Kf cost  25.015830993652344 ms
+current window is  [53, 46, 41, 36, 31, 26, 15, 0]
+Frontend !!! Create Kf cost  65.30404090881348 ms
+current gaussian size  is  torch.Size([32659, 3])
+MonoGS: Evaluating ATE at frame:  59
+Eval: RMSE ATE [m] 0.008224871695511771
+mapping iter is  1  and mapping time is  66.17903709411621
+mapping iter is  1  and mapping time is  63.11464309692383
+mapping iter is  1  and mapping time is  62.82663345336914
+mapping iter is  1  and mapping time is  58.24089050292969
+mapping iter is  1  and mapping time is  67.71183013916016
+mapping iter is  1  and mapping time is  66.32399559020996
+mapping iter is  1  and mapping time is  42.035818099975586
+mapping iter is  1  and mapping time is  24.213314056396484
+mapping iter is  1  and mapping time is  34.08622741699219
+mapping iter is  1  and mapping time is  57.398080825805664
+mapping iter is  1  and mapping time is  61.01489067077637
+mapping iter is  1  and mapping time is  57.24501609802246
+mapping iter is  1  and mapping time is  60.122013092041016
+mapping iter is  1  and mapping time is  61.41400337219238
+mapping iter is  1  and mapping time is  68.88031959533691
+mapping iter is  1  and mapping time is  63.0953311920166
+mapping iter is  1  and mapping time is  61.85030937194824
+mapping iter is  1  and mapping time is  64.86773490905762
+mapping iter is  1  and mapping time is  28.689146041870117
+mapping iter is  1  and mapping time is  28.998613357543945
+mapping iter is  1  and mapping time is  55.05990982055664
+mapping iter is  1  and mapping time is  59.06414985656738
+mapping iter is  1  and mapping time is  66.94197654724121
+mapping iter is  1  and mapping time is  59.59725379943848
+mapping iter is  1  and mapping time is  65.52457809448242
+mapping iter is  1  and mapping time is  68.21417808532715
+mapping iter is  1  and mapping time is  67.46745109558105
+mapping iter is  1  and mapping time is  63.076019287109375
+mapping iter is  1  and mapping time is  60.29105186462402
+mapping iter is  1  and mapping time is  36.9572639465332
+mapping iter is  1  and mapping time is  52.44040489196777
+create point cloud time is  3.0858516693115234 ms
+mapping iter is  10  and mapping time is  550.7657527923584
+keyframe mapping time is  603.5659313201904
+mapping iter is  1  and mapping time is  70.84894180297852
+mapping iter is  1  and mapping time is  50.82583427429199
+mapping iter is  1  and mapping time is  25.34794807434082
+mapping iter is  1  and mapping time is  57.90543556213379
+mapping iter is  1  and mapping time is  68.54033470153809
+mapping iter is  1  and mapping time is  65.35530090332031
+mapping iter is  1  and mapping time is  68.5584545135498
+mapping iter is  1  and mapping time is  68.68529319763184
+mapping iter is  1  and mapping time is  66.7119026184082
+mapping iter is  1  and mapping time is  76.29799842834473
+mapping iter is  1  and mapping time is  60.80436706542969
+mapping iter is  1  and mapping time is  45.65286636352539
+mapping iter is  1  and mapping time is  24.132251739501953
+mapping iter is  1  and mapping time is  50.03190040588379
+mapping iter is  1  and mapping time is  66.67423248291016
+mapping iter is  1  and mapping time is  66.07937812805176
+mapping iter is  1  and mapping time is  73.13227653503418
+mapping iter is  1  and mapping time is  64.14318084716797
+mapping iter is  1  and mapping time is  63.520193099975586
+mapping iter is  1  and mapping time is  64.8193359375
+mapping iter is  1  and mapping time is  65.10162353515625
+mapping iter is  1  and mapping time is  61.10525131225586
+mapping iter is  1  and mapping time is  30.81655502319336
+mapping iter is  1  and mapping time is  35.09259223937988
+mapping iter is  1  and mapping time is  68.2973861694336
+mapping iter is  1  and mapping time is  64.94355201721191
+mapping iter is  1  and mapping time is  70.59001922607422
+mapping iter is  1  and mapping time is  73.25482368469238
+mapping iter is  1  and mapping time is  71.9149112701416
+mapping iter is  1  and mapping time is  71.12741470336914
+mapping iter is  1  and mapping time is  82.08298683166504
+mapping iter is  1  and mapping time is  49.95226860046387
+mapping iter is  1  and mapping time is  27.945995330810547
+create point cloud time is  2.5560855865478516 ms
+mapping iter is  10  and mapping time is  637.3574733734131
+keyframe mapping time is  661.8077754974365
+mapping iter is  1  and mapping time is  43.10488700866699
+mapping iter is  1  and mapping time is  57.29842185974121
+mapping iter is  1  and mapping time is  68.90058517456055
+mapping iter is  1  and mapping time is  75.10566711425781
+mapping iter is  1  and mapping time is  63.371896743774414
+mapping iter is  1  and mapping time is  70.91188430786133
+mapping iter is  1  and mapping time is  69.54646110534668
+mapping iter is  1  and mapping time is  66.1935806274414
+mapping iter is  1  and mapping time is  70.23310661315918
+mapping iter is  1  and mapping time is  49.24511909484863
+mapping iter is  1  and mapping time is  61.369895935058594
+mapping iter is  1  and mapping time is  65.97638130187988
+mapping iter is  1  and mapping time is  73.65036010742188
+mapping iter is  1  and mapping time is  66.63680076599121
+mapping iter is  1  and mapping time is  67.76881217956543
+mapping iter is  1  and mapping time is  62.689781188964844
+mapping iter is  1  and mapping time is  74.89418983459473
+mapping iter is  1  and mapping time is  67.18921661376953
+mapping iter is  1  and mapping time is  70.21141052246094
+mapping iter is  1  and mapping time is  41.37444496154785
+mapping iter is  1  and mapping time is  62.03460693359375
+mapping iter is  1  and mapping time is  71.8224048614502
+mapping iter is  1  and mapping time is  68.02082061767578
+mapping iter is  1  and mapping time is  63.41385841369629
+mapping iter is  1  and mapping time is  66.95389747619629
+mapping iter is  1  and mapping time is  65.54722785949707
+mapping iter is  1  and mapping time is  69.19217109680176
+mapping iter is  1  and mapping time is  71.26688957214355
+mapping iter is  1  and mapping time is  74.05662536621094
+mapping iter is  1  and mapping time is  33.25223922729492
+create point cloud time is  2.603769302368164 ms
+mapping iter is  10  and mapping time is  644.9718475341797
+keyframe mapping time is  672.3341941833496
+mapping iter is  1  and mapping time is  70.4185962677002
+mapping iter is  1  and mapping time is  73.38619232177734
+mapping iter is  1  and mapping time is  67.88778305053711
+mapping iter is  1  and mapping time is  66.87641143798828
+mapping iter is  1  and mapping time is  69.92244720458984
+mapping iter is  1  and mapping time is  70.07265090942383
+mapping iter is  1  and mapping time is  67.08455085754395
+mapping iter is  1  and mapping time is  61.70797348022461
+mapping iter is  1  and mapping time is  58.92229080200195
+mapping iter is  1  and mapping time is  28.823375701904297
+mapping iter is  1  and mapping time is  65.1392936706543
+mapping iter is  1  and mapping time is  71.61736488342285
+mapping iter is  1  and mapping time is  82.88908004760742
+mapping iter is  1  and mapping time is  65.62376022338867
+mapping iter is  1  and mapping time is  71.66600227355957
+mapping iter is  1  and mapping time is  69.05531883239746
+mapping iter is  1  and mapping time is  62.08229064941406
+mapping iter is  1  and mapping time is  66.27392768859863
+mapping iter is  1  and mapping time is  51.390647888183594
+mapping iter is  1  and mapping time is  25.776147842407227
+mapping iter is  1  and mapping time is  64.66341018676758
+mapping iter is  1  and mapping time is  63.680410385131836
+mapping iter is  1  and mapping time is  77.66413688659668
+mapping iter is  1  and mapping time is  67.15726852416992
+mapping iter is  1  and mapping time is  65.7196044921875
+mapping iter is  1  and mapping time is  63.64631652832031
+mapping iter is  1  and mapping time is  67.31128692626953
+mapping iter is  1  and mapping time is  69.57817077636719
+mapping iter is  1  and mapping time is  63.14277648925781
+mapping iter is  1  and mapping time is  31.06212615966797
+create point cloud time is  3.4873485565185547 ms
+mapping iter is  10  and mapping time is  601.243257522583
+keyframe mapping time is  623.1491565704346
+mapping iter is  1  and mapping time is  56.731462478637695
+mapping iter is  1  and mapping time is  67.95167922973633
+mapping iter is  1  and mapping time is  65.76704978942871
+mapping iter is  1  and mapping time is  65.86074829101562
+mapping iter is  1  and mapping time is begin tracking and cur gaussian size is  torch.Size([32659, 3])
+Frontend !!! Tracking and refining exposure cost  644.57106590271 ms
+begin tracking and cur gaussian size is  torch.Size([34235, 3])
+Frontend !!! Tracking and refining exposure cost  639.0490531921387 ms
+Frontend !!! Judge Kf cost  21.38829231262207 ms
+current window is  [58, 53, 46, 41, 36, 26, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([34235, 3])
+Frontend !!! Tracking and refining exposure cost  645.2383995056152 ms
+Frontend !!! Judge Kf cost  31.998872756958008 ms
+current window is  [58, 53, 46, 41, 36, 26, 15, 0]
+begin tracking and cur gaussian size is  torch.Size([34235, 3])
+Frontend !!! Tracking and refining exposure cost  633.685827255249 ms
+Frontend !!! Judge Kf cost  20.561695098876953 ms
+current window is  [58, 53, 46, 41, 36, 26, 15, 0]
+Frontend !!! Create Kf cost  3.954648971557617 ms
+current gaussian size  is  torch.Size([34235, 3])
+begin tracking and cur gaussian size is  torch.Size([34235, 3])
+Frontend !!! Tracking and refining exposure cost  631.8590641021729 ms
+begin tracking and cur gaussian size is  torch.Size([34235, 3])
+Frontend !!! Tracking and refining exposure cost  661.5042686462402 ms
+begin tracking and cur gaussian size is  torch.Size([35624, 3])
+Frontend !!! Tracking and refining exposure cost  656.1436653137207 ms
+Frontend !!! Judge Kf cost  20.84803581237793 ms
+current window is  [62, 58, 53, 46, 41, 36, 26, 0]
+begin tracking and cur gaussian size is  torch.Size([35624, 3])
+Frontend !!! Tracking and refining exposure cost  646.5976238250732 ms
+Frontend !!! Judge Kf cost  22.205591201782227 ms
+current window is  [62, 58, 53, 46, 41, 36, 26, 0]
+Frontend !!! Create Kf cost  3.4799575805664062 ms
+current gaussian size  is  torch.Size([35624, 3])
+begin tracking and cur gaussian size is  torch.Size([35624, 3])
+Frontend !!! Tracking and refining exposure cost  637.0620727539062 ms
+begin tracking and cur gaussian size is  torch.Size([35624, 3])
+Frontend !!! Tracking and refining exposure cost  638.671875 ms
+begin tracking and cur gaussian size is  torch.Size([37109, 3])
+Frontend !!! Tracking and refining exposure cost  624.0646839141846 ms
+Frontend !!! Judge Kf cost  23.36263656616211 ms
+current window is  [66, 62, 58, 53, 46, 41, 36, 26]
+begin tracking and cur gaussian size is  torch.Size([37109, 3])
+Frontend !!! Tracking and refining exposure cost  648.383378982544 ms
+Frontend !!! Judge Kf cost  17.093896865844727 ms
+current window is  [66, 62, 58, 53, 46, 41, 36, 26]
+Frontend !!! Create Kf cost  2.4003982543945312 ms
+current gaussian size  is  torch.Size([37109, 3])
+begin tracking and cur gaussian size is  torch.Size([32450, 3])
+Frontend !!! Tracking and refining exposure cost  608.985424041748 ms
+begin tracking and cur gaussian size is  torch.Size([32450, 3])
+Frontend !!! Tracking and refining exposure cost  586.1537456512451 ms
+begin tracking and cur gaussian size is  torch.Size([33977, 3])
+Frontend !!! Tracking and refining exposure cost  598.1740951538086 ms
+Frontend !!! Judge Kf cost  18.970489501953125 ms
+current window is  [70, 66, 62, 58, 53, 46, 41, 36]
+Frontend !!! Create Kf cost  66.09487533569336 ms
+current gaussian size  is  torch.Size([33977, 3])
+begin tracking and cur gaussian size is  torch.Size([33977, 3])
+Frontend !!! Tracking and refining exposure cost  582.8421115875244 ms
+begin tracking and cur gaussian size is  torch.Size([33977, 3])
+Frontend !!! Tracking and refining exposure cost  587.5670909881592 ms
+begin tracking and cur gaussian size is  torch.Size([35530, 3])
+Frontend !!! Tracking and refining exposure cost  598.4375476837158 ms
+Frontend !!! Judge Kf cost  17.84348487854004 ms
+current window is  [73, 70, 66, 62, 58, 53, 46, 36]
+begin tracking and cur gaussian size is  torch.Size([35530, 3])
+Frontend !!! Tracking and refining exposure cost  593.1105613708496 ms
+Frontend !!! Judge Kf cost  19.35100555419922 ms
+current window is  [73, 70, 66, 62, 58, 53, 46, 36]
+begin tracking and cur gaussian size is  torch.Size([35530, 3])
+Frontend !!! Tracking and refining exposure cost  608.2525253295898 ms
+Frontend !!! Judge Kf cost  18.05257797241211 ms
+current window is  [73, 70, 66, 62, 58, 53, 46, 36]
+Frontend !!! Create Kf cost  4.738569259643555 ms
+current gaussian size  is  torch.Size([35530, 3])
+MonoGS: Evaluating ATE at frame:  79
+Eval: RMSE ATE [m] 0.12546952279379164
+ 62.04509735107422
+mapping iter is  1  and mapping time is  62.216758728027344
+mapping iter is  1  and mapping time is  66.01691246032715
+mapping iter is  1  and mapping time is  58.96568298339844
+mapping iter is  1  and mapping time is  53.29084396362305
+mapping iter is  1  and mapping time is  24.103164672851562
+mapping iter is  1  and mapping time is  63.51327896118164
+mapping iter is  1  and mapping time is  62.94751167297363
+mapping iter is  1  and mapping time is  63.45343589782715
+mapping iter is  1  and mapping time is  69.7011947631836
+mapping iter is  1  and mapping time is  69.4880485534668
+mapping iter is  1  and mapping time is  70.62482833862305
+mapping iter is  1  and mapping time is  63.11345100402832
+mapping iter is  1  and mapping time is  63.98630142211914
+mapping iter is  1  and mapping time is  51.15056037902832
+mapping iter is  1  and mapping time is  51.26643180847168
+create point cloud time is  3.114938735961914 ms
+mapping iter is  10  and mapping time is  597.3854064941406
+keyframe mapping time is  620.4514503479004
+mapping iter is  1  and mapping time is  59.26847457885742
+mapping iter is  1  and mapping time is  60.42170524597168
+mapping iter is  1  and mapping time is  69.91910934448242
+mapping iter is  1  and mapping time is  64.27860260009766
+mapping iter is  1  and mapping time is  64.5761489868164
+mapping iter is  1  and mapping time is  66.94173812866211
+mapping iter is  1  and mapping time is  57.151079177856445
+mapping iter is  1  and mapping time is  55.67622184753418
+mapping iter is  1  and mapping time is  55.693626403808594
+mapping iter is  1  and mapping time is  23.91839027404785
+mapping iter is  1  and mapping time is  61.98573112487793
+mapping iter is  1  and mapping time is  60.80794334411621
+mapping iter is  1  and mapping time is  67.49868392944336
+mapping iter is  1  and mapping time is  68.48478317260742
+mapping iter is  1  and mapping time is  67.14153289794922
+mapping iter is  1  and mapping time is  60.72187423706055
+mapping iter is  1  and mapping time is  62.85977363586426
+mapping iter is  1  and mapping time is  56.89859390258789
+mapping iter is  1  and mapping time is  63.55595588684082
+mapping iter is  1  and mapping time is  24.245023727416992
+mapping iter is  1  and mapping time is  61.127662658691406
+mapping iter is  1  and mapping time is  63.70878219604492
+mapping iter is  1  and mapping time is  60.87017059326172
+mapping iter is  1  and mapping time is  63.62462043762207
+mapping iter is  1  and mapping time is  67.46864318847656
+mapping iter is  1  and mapping time is  67.42477416992188
+mapping iter is  1  and mapping time is  64.54038619995117
+mapping iter is  1  and mapping time is  62.40105628967285
+mapping iter is  1  and mapping time is  55.849552154541016
+mapping iter is  1  and mapping time is  24.173259735107422
+mapping iter is  1  and mapping time is  65.80185890197754
+mapping iter is  1  and mapping time is  62.531232833862305
+mapping iter is  1  and mapping time is  71.69389724731445
+mapping iter is  1  and mapping time is  66.14518165588379
+mapping iter is  1  and mapping time is  66.34783744812012
+mapping iter is  1  and mapping time is  64.18776512145996
+mapping iter is  1  and mapping time is  68.05992126464844
+mapping iter is  1  and mapping time is  63.0795955657959
+mapping iter is  1  and mapping time is  60.93144416809082
+mapping iter is  1  and mapping time is  39.52789306640625
+create point cloud time is  2.935647964477539 ms
+mapping iter is  10  and mapping time is  567.0642852783203
+keyframe mapping time is  612.2286319732666
+mapping iter is  1  and mapping time is  30.936717987060547
+mapping iter is  1  and mapping time is  31.110763549804688
+mapping iter is  1  and mapping time is  65.71793556213379
+mapping iter is  1  and mapping time is  70.98245620727539
+mapping iter is  1  and mapping time is  66.74909591674805
+mapping iter is  1  and mapping time is  77.09026336669922
+mapping iter is  1  and mapping time is  70.90210914611816
+mapping iter is  1  and mapping time is  69.9319839477539
+mapping iter is  1  and mapping time is  67.62480735778809
+mapping iter is  1  and mapping time is  67.64936447143555
+mapping iter is  1  and mapping time is  38.451194763183594
+mapping iter is  1  and mapping time is  63.28439712524414
+mapping iter is  1  and mapping time is  67.40641593933105
+mapping iter is  1  and mapping time is  72.27349281311035
+mapping iter is  1  and mapping time is  68.4821605682373
+mapping iter is  1  and mapping time is  63.95554542541504
+mapping iter is  1  and mapping time is  63.29345703125
+mapping iter is  1  and mapping time is  63.51184844970703
+mapping iter is  1  and mapping time is  68.8486099243164
+mapping iter is  1  and mapping time is  41.31937026977539
+mapping iter is  1  and mapping time is  34.06882286071777
+mapping iter is  1  and mapping time is  60.83178520202637
+mapping iter is  1  and mapping time is  67.17109680175781
+mapping iter is  1  and mapping time is  67.35062599182129
+mapping iter is  1  and mapping time is  66.80560111999512
+mapping iter is  1  and mapping time is  67.97599792480469
+mapping iter is  1  and mapping time is  66.63751602172852
+mapping iter is  1  and mapping time is  61.818599700927734
+mapping iter is  1  and mapping time is  68.82405281066895
+mapping iter is  1  and mapping time is  44.4183349609375
+mapping iter is  1  and mapping time is  51.07378959655762
+mapping iter is  1  and mapping time is  64.50128555297852
+mapping iter is  1  and mapping time is  62.12258338928223
+mapping iter is  1  and mapping time is  65.37151336669922
+mapping iter is  1  and mapping time is  69.45276260375977
+mapping iter is  1  and mapping time is  56.8232536315918
+mapping iter is  1  and mapping time is  69.23413276672363
+mapping iter is  1  and mapping time is  73.46677780151367
+mapping iter is  1  and mapping time is  61.04898452758789
+mapping iter is  1  and mapping time is  39.76082801818848
+mapping iter is  1  and mapping time is  52.6585578918457
+mapping iter is  1  and mapping time is  64.38636779785156
+mapping iter is  1  and mapping time is  62.31546401977539
+mapping iter is  1  and mapping time is  65.79804420471191
+mapping iter is  1  and mapping time is  58.881521224975586
+mapping iter is  1  and mapping time is  63.54546546936035
+mapping iter is  1  and mapping time is  67.9163932800293
+mapping iter is  1  and mapping time is  70.06502151489258
+mapping iter is  1  and mapping time is  56.821584701538086
+mapping iter is  1  and mapping time is  33.84661674499512
+mapping iter is  1  and mapping time is  32.65953063964844
+create point cloud time is  2.671480178833008 ms
+mapping iter is  10  and mapping time is  592.4789905548096
+keyframe mapping time is  612.7586364746094
+mapping iter is  1  and mapping time is  53.37643623352051
+mapping iter is  1  and mapping time is  65.84382057189941
+mapping iter is  1  and mapping time is  66.93196296691895
+mapping iter is  1  and mapping time is  60.3632926940918
+mapping iter is  1  and mapping time is  61.28048896789551
+mapping iter is  1  and mapping time is  69.14353370666504
+mapping iter is  1  and mapping time is  69.56052780151367
+mapping iter is  1  and mapping time is  62.722206115722656
+mapping iter is  1  and mapping time is  57.30152130126953
+mapping iter is  1  and mapping time is  23.27585220336914
+mapping iter is  1  and mapping time is  53.859710693359375
+mapping iter is  1  and mapping time is  64.49508666992188
+mapping iter is  1  and mapping time is  64.60118293762207
+mapping iter is  1  and mapping time is  58.84432792663574
+mapping iter is  1  and mapping time is  67.88516044616699
+mapping iter is  1  and mapping time is  65.5813217163086
+mapping iter is  1  and mapping time is  69.15855407714844
+mapping iter is  1  and mapping time is  61.62452697753906
+mapping iter is  1  and mapping time is  64.83101844787598
+mapping iter is  1  and mapping time is  23.813962936401367
+mapping iter is  1  and mapping time is  44.34061050415039
+mapping iter is  1  and mapping time is  65.99569320678711
+mapping iter is  1  and mapping time is  65.96684455871582
+mapping iter is  1  and mapping time is  68.1297779083252
+mapping iter is  1  and mapping time is  62.50262260437012begin tracking and cur gaussian size is  torch.Size([35530, 3])
+Frontend !!! Tracking and refining exposure cost  594.512939453125 ms
+begin tracking and cur gaussian size is  torch.Size([37062, 3])
+Frontend !!! Tracking and refining exposure cost  590.1520252227783 ms
+Frontend !!! Judge Kf cost  18.796205520629883 ms
+current window is  [78, 73, 70, 66, 62, 58, 53, 46]
+begin tracking and cur gaussian size is  torch.Size([37062, 3])
+Frontend !!! Tracking and refining exposure cost  607.0566177368164 ms
+Frontend !!! Judge Kf cost  23.569345474243164 ms
+current window is  [78, 73, 70, 66, 62, 58, 53, 46]
+begin tracking and cur gaussian size is  torch.Size([37062, 3])
+Frontend !!! Tracking and refining exposure cost  602.5435924530029 ms
+Frontend !!! Judge Kf cost  18.123149871826172 ms
+current window is  [78, 73, 70, 66, 62, 58, 53, 46]
+begin tracking and cur gaussian size is  torch.Size([37062, 3])
+Frontend !!! Tracking and refining exposure cost  603.0745506286621 ms
+Frontend !!! Judge Kf cost  28.814077377319336 ms
+current window is  [78, 73, 70, 66, 62, 58, 53, 46]
+begin tracking and cur gaussian size is  torch.Size([37077, 3])
+Frontend !!! Tracking and refining exposure cost  583.6358070373535 ms
+Frontend !!! Judge Kf cost  25.77662467956543 ms
+current window is  [78, 73, 70, 66, 62, 58, 53, 46]
+Frontend !!! Create Kf cost  66.02334976196289 ms
+current gaussian size  is  torch.Size([37077, 3])
+begin tracking and cur gaussian size is  torch.Size([37077, 3])
+Frontend !!! Tracking and refining exposure cost  583.3752155303955 ms
+begin tracking and cur gaussian size is  torch.Size([37077, 3])
+Frontend !!! Tracking and refining exposure cost  598.8633632659912 ms
+begin tracking and cur gaussian size is  torch.Size([38640, 3])
+Frontend !!! Tracking and refining exposure cost  596.8031883239746 ms
+Frontend !!! Judge Kf cost  21.82793617248535 ms
+current window is  [84, 78, 73, 70, 66, 62, 53, 46]
+begin tracking and cur gaussian size is  torch.Size([38640, 3])
+Frontend !!! Tracking and refining exposure cost  596.4705944061279 ms
+Frontend !!! Judge Kf cost  25.738000869750977 ms
+current window is  [84, 78, 73, 70, 66, 62, 53, 46]
+begin tracking and cur gaussian size is  torch.Size([38640, 3])
+Frontend !!! Tracking and refining exposure cost  596.4944362640381 ms
+Frontend !!! Judge Kf cost  24.216175079345703 ms
+current window is  [84, 78, 73, 70, 66, 62, 53, 46]
+begin tracking and cur gaussian size is  torch.Size([38640, 3])
+Frontend !!! Tracking and refining exposure cost  598.2973575592041 ms
+Frontend !!! Judge Kf cost  18.776893615722656 ms
+current window is  [84, 78, 73, 70, 66, 62, 53, 46]
+Frontend !!! Create Kf cost  65.09852409362793 ms
+current gaussian size  is  torch.Size([38640, 3])
+begin tracking and cur gaussian size is  torch.Size([38640, 3])
+Frontend !!! Tracking and refining exposure cost  642.0466899871826 ms
+begin tracking and cur gaussian size is  torch.Size([38640, 3])
+Frontend !!! Tracking and refining exposure cost  620.1756000518799 ms
+begin tracking and cur gaussian size is  torch.Size([40232, 3])
+Frontend !!! Tracking and refining exposure cost  612.3836040496826 ms
+Frontend !!! Judge Kf cost  17.261505126953125 ms
+current window is  [90, 84, 78, 73, 70, 62, 53, 46]
+begin tracking and cur gaussian size is  torch.Size([40232, 3])
+Frontend !!! Tracking and refining exposure cost  616.037130355835 ms
+Frontend !!! Judge Kf cost  18.078088760375977 ms
+current window is  [90, 84, 78, 73, 70, 62, 53, 46]
+begin tracking and cur gaussian size is  torch.Size([40232, 3])
+Frontend !!! Tracking and refining exposure cost  619.6258068084717 ms
+Frontend !!! Judge Kf cost  22.77398109436035 ms
+current window is  [90, 84, 78, 73, 70, 62, 53, 46]
+Frontend !!! Create Kf cost  71.02370262145996 ms
+current gaussian size  is  torch.Size([40232, 3])
+begin tracking and cur gaussian size is  torch.Size([40232, 3])
+Frontend !!! Tracking and refining exposure cost  599.1847515106201 ms
+begin tracking and cur gaussian size is  torch.Size([40232, 3])
+Frontend !!! Tracking and refining exposure cost  606.6367626190186 ms
+begin tracking and cur gaussian size is  torch.Size([40718, 3])
+Frontend !!! Tracking and refining exposure cost  579.3628692626953 ms
+Frontend !!! Judge Kf cost  18.89514923095703 ms
+current window is  [95, 90, 84, 78, 70, 62, 53, 46]
+begin tracking and cur gaussian size is  torch.Size([40718, 3])
+Frontend !!! Tracking and refining exposure cost  591.1564826965332 ms
+Frontend !!! Judge Kf cost  23.4830379486084 ms
+current window is  [95, 90, 84, 78, 70, 62, 53, 46]
+begin tracking and cur gaussian size is  torch.Size([40718, 3])
+Frontend !!! Tracking and refining exposure cost  597.0730781555176 ms
+Frontend !!! Judge Kf cost  17.852306365966797 ms
+current window is  [95, 90, 84, 78, 70, 62, 53, 46]
+Frontend !!! Create Kf cost  71.35915756225586 ms
+current gaussian size  is  torch.Size([40718, 3])
+begin tracking and cur gaussian size is  torch.Size([40718, 3])
+Frontend !!! Tracking and refining exposure cost  610.7375621795654 ms
+begin tracking and cur gaussian size is  torch.Size([40718, 3])
+Frontend !!! Tracking and refining exposure cost  592.7197933197021 ms
+begin tracking and cur gaussian size is  torch.Size([42324, 3])
+Frontend !!! Tracking and refining exposure cost  586.5676403045654 ms
+Frontend !!! Judge Kf cost  22.85289764404297 ms
+current window is  [100, 95, 90, 84, 78, 70, 62, 46]
+Frontend !!! Create Kf cost  4.001140594482422 ms
+current gaussian size  is  torch.Size([42324, 3])
+MonoGS: Evaluating ATE at frame:  104
+Eval: RMSE ATE [m] 0.19860370719093115
+
+mapping iter is  1  and mapping time is  68.87507438659668
+mapping iter is  1  and mapping time is  68.6485767364502
+mapping iter is  1  and mapping time is  67.74258613586426
+mapping iter is  1  and mapping time is  64.82458114624023
+mapping iter is  1  and mapping time is  29.832839965820312
+mapping iter is  1  and mapping time is  60.72187423706055
+mapping iter is  1  and mapping time is  66.32113456726074
+mapping iter is  1  and mapping time is  60.39595603942871
+mapping iter is  1  and mapping time is  68.27044486999512
+mapping iter is  1  and mapping time is  72.04651832580566
+mapping iter is  1  and mapping time is  67.6727294921875
+mapping iter is  1  and mapping time is  62.76583671569824
+mapping iter is  1  and mapping time is  59.90028381347656
+mapping iter is  1  and mapping time is  56.192874908447266
+mapping iter is  1  and mapping time is  24.83654022216797
+mapping iter is  1  and mapping time is  42.653560638427734
+mapping iter is  1  and mapping time is  66.18237495422363
+mapping iter is  1  and mapping time is  67.16489791870117
+mapping iter is  1  and mapping time is  68.32408905029297
+mapping iter is  1  and mapping time is  70.20330429077148
+mapping iter is  1  and mapping time is  69.7169303894043
+mapping iter is  1  and mapping time is  70.05000114440918
+mapping iter is  1  and mapping time is  68.04919242858887
+mapping iter is  1  and mapping time is  59.79204177856445
+mapping iter is  1  and mapping time is  45.385122299194336
+create point cloud time is  2.7725696563720703 ms
+mapping iter is  10  and mapping time is  630.4521560668945
+keyframe mapping time is  659.5113277435303
+mapping iter is  1  and mapping time is  30.029773712158203
+mapping iter is  1  and mapping time is  57.67059326171875
+mapping iter is  1  and mapping time is  68.87459754943848
+mapping iter is  1  and mapping time is  73.84800910949707
+mapping iter is  1  and mapping time is  68.52293014526367
+mapping iter is  1  and mapping time is  65.50121307373047
+mapping iter is  1  and mapping time is  73.38857650756836
+mapping iter is  1  and mapping time is  64.99624252319336
+mapping iter is  1  and mapping time is  60.83345413208008
+mapping iter is  1  and mapping time is  56.734323501586914
+mapping iter is  1  and mapping time is  31.87084197998047
+mapping iter is  1  and mapping time is  65.19365310668945
+mapping iter is  1  and mapping time is  62.905311584472656
+mapping iter is  1  and mapping time is  69.07272338867188
+mapping iter is  1  and mapping time is  73.97079467773438
+mapping iter is  1  and mapping time is  73.90880584716797
+mapping iter is  1  and mapping time is  67.88444519042969
+mapping iter is  1  and mapping time is  71.74324989318848
+mapping iter is  1  and mapping time is  70.92452049255371
+mapping iter is  1  and mapping time is  35.660743713378906
+mapping iter is  1  and mapping time is  52.817583084106445
+mapping iter is  1  and mapping time is  69.05817985534668
+mapping iter is  1  and mapping time is  74.7382640838623
+mapping iter is  1  and mapping time is  64.94736671447754
+mapping iter is  1  and mapping time is  65.51575660705566
+mapping iter is  1  and mapping time is  73.22454452514648
+mapping iter is  1  and mapping time is  71.7306137084961
+mapping iter is  1  and mapping time is  69.46396827697754
+mapping iter is  1  and mapping time is  61.21945381164551
+mapping iter is  1  and mapping time is  27.751922607421875
+mapping iter is  1  and mapping time is  62.08229064941406
+mapping iter is  1  and mapping time is  62.55960464477539
+mapping iter is  1  and mapping time is  66.04194641113281
+mapping iter is  1  and mapping time is  73.80533218383789
+mapping iter is  1  and mapping time is  65.12451171875
+mapping iter is  1  and mapping time is  63.52543830871582
+mapping iter is  1  and mapping time is  70.19519805908203
+mapping iter is  1  and mapping time is  74.81694221496582
+mapping iter is  1  and mapping time is  48.459529876708984
+mapping iter is  1  and mapping time is  37.39595413208008
+create point cloud time is  5.922079086303711 ms
+mapping iter is  10  and mapping time is  619.2665100097656
+keyframe mapping time is  639.8391723632812
+mapping iter is  1  and mapping time is  53.802490234375
+mapping iter is  1  and mapping time is  66.16902351379395
+mapping iter is  1  and mapping time is  71.29836082458496
+mapping iter is  1  and mapping time is  66.99681282043457
+mapping iter is  1  and mapping time is  69.8859691619873
+mapping iter is  1  and mapping time is  69.03934478759766
+mapping iter is  1  and mapping time is  68.27425956726074
+mapping iter is  1  and mapping time is  71.14791870117188
+mapping iter is  1  and mapping time is  46.23913764953613
+mapping iter is  1  and mapping time is  25.176286697387695
+mapping iter is  1  and mapping time is  61.36035919189453
+mapping iter is  1  and mapping time is  62.170982360839844
+mapping iter is  1  and mapping time is  65.10043144226074
+mapping iter is  1  and mapping time is  64.17226791381836
+mapping iter is  1  and mapping time is  67.75426864624023
+mapping iter is  1  and mapping time is  65.97161293029785
+mapping iter is  1  and mapping time is  62.52622604370117
+mapping iter is  1  and mapping time is  68.79997253417969
+mapping iter is  1  and mapping time is  43.418169021606445
+mapping iter is  1  and mapping time is  34.46221351623535
+mapping iter is  1  and mapping time is  66.26033782958984
+mapping iter is  1  and mapping time is  65.68765640258789
+mapping iter is  1  and mapping time is  67.66867637634277
+mapping iter is  1  and mapping time is  65.87386131286621
+mapping iter is  1  and mapping time is  66.01357460021973
+mapping iter is  1  and mapping time is  66.12944602966309
+mapping iter is  1  and mapping time is  60.08577346801758
+mapping iter is  1  and mapping time is  53.19714546203613
+mapping iter is  1  and mapping time is  23.77772331237793
+mapping iter is  1  and mapping time is  29.250144958496094
+mapping iter is  1  and mapping time is  68.08733940124512
+mapping iter is  1  and mapping time is  71.26402854919434
+mapping iter is  1  and mapping time is  62.30616569519043
+mapping iter is  1  and mapping time is  69.0460205078125
+mapping iter is  1  and mapping time is  67.10577011108398
+mapping iter is  1  and mapping time is  61.869144439697266
+mapping iter is  1  and mapping time is  68.5112476348877
+mapping iter is  1  and mapping time is  59.98039245605469
+mapping iter is  1  and mapping time is  38.812875747680664
+mapping iter is  1  and mapping time is  48.42066764831543
+create point cloud time is  2.895832061767578 ms
+mapping iter is  10  and mapping time is  609.1060638427734
+keyframe mapping time is  629.9009323120117
+mapping iter is  1  and mapping time is  55.724382400512695
+mapping iter is  1  and mapping time is  64.76616859436035
+mapping iter is  1  and mapping time is  64.86058235168457
+mapping iter is  1  and mapping time is  70.03211975097656
+mapping iter is  1  and mapping time is  64.39781188964844
+mapping iter is  1  and mapping time is  66.29037857055664
+mapping iter is  1  and mapping time is  66.18380546569824
+mapping iter is  1  and mapping time is  61.6147518157959
+mapping iter is  1  and mapping time is  54.02398109436035
+mapping iter is  1  and mapping time is  23.077964782714844
+mapping iter is  1  and mapping time is  65.54055213928223
+mapping iter is  1  and mapping time is  63.17853927612305
+mapping iter is  1  and mapping time is  67.05021858215332
+mapping iter is  1  and mapping time is  67.4734115600586
+mapping iter is  1  and mapping time is  71.24733924865723
+mapping iter is  1  and mapping time is  58.66289138793945
+mapping iter is  1  and mapping time is  73.33183288574219
+mapping iter is  1  and mapping time is  66.61677360534668
+mapping iter is  1  and mapping time is  35.066843032836914
+mapping iter is  1  and mapping time is  28.554439544677734
+create point cloud time is  3.228425979614258 ms
+mapping iter is  10  and mapping time is  612.6813888549805
+keyframe mapping time is  660.5684757232666
+mapping iter is  1  and mapping time is  21.922588348388672
+mapping iter is  1  and mapping time is  34.64198112487793
+mapping iter is  1  and mapping time is  63.09986114501953
+mapping iter is  1  and mapping time is begin tracking and cur gaussian size is  torch.Size([42324, 3])
+Frontend !!! Tracking and refining exposure cost  613.675594329834 ms
+begin tracking and cur gaussian size is  torch.Size([42324, 3])
+Frontend !!! Tracking and refining exposure cost  644.1612243652344 ms
+begin tracking and cur gaussian size is  torch.Size([43853, 3])
+Frontend !!! Tracking and refining exposure cost  629.7247409820557 ms
+Frontend !!! Judge Kf cost  25.318622589111328 ms
+current window is  [103, 100, 95, 90, 84, 78, 70, 62]
+Frontend !!! Create Kf cost  3.978252410888672 ms
+current gaussian size  is  torch.Size([43853, 3])
+begin tracking and cur gaussian size is  torch.Size([43853, 3])
+Frontend !!! Tracking and refining exposure cost  634.6125602722168 ms
+begin tracking and cur gaussian size is  torch.Size([43853, 3])
+Frontend !!! Tracking and refining exposure cost  616.6563034057617 ms
+begin tracking and cur gaussian size is  torch.Size([45399, 3])
+Frontend !!! Tracking and refining exposure cost  633.9678764343262 ms
+Frontend !!! Judge Kf cost  17.968177795410156 ms
+current window is  [106, 103, 100, 95, 90, 84, 78, 70]
+begin tracking and cur gaussian size is  torch.Size([45399, 3])
+Frontend !!! Tracking and refining exposure cost  612.553596496582 ms
+Frontend !!! Judge Kf cost  19.85454559326172 ms
+current window is  [106, 103, 100, 95, 90, 84, 78, 70]
+begin tracking and cur gaussian size is  torch.Size([45399, 3])
+Frontend !!! Tracking and refining exposure cost  602.84423828125 ms
+Frontend !!! Judge Kf cost  19.954204559326172 ms
+current window is  [106, 103, 100, 95, 90, 84, 78, 70]
+Frontend !!! Create Kf cost  65.52553176879883 ms
+current gaussian size  is  torch.Size([45399, 3])
+begin tracking and cur gaussian size is  torch.Size([46298, 3])
+Frontend !!! Tracking and refining exposure cost  597.907543182373 ms
+begin tracking and cur gaussian size is  torch.Size([46298, 3])
+Frontend !!! Tracking and refining exposure cost  622.105598449707 ms
+begin tracking and cur gaussian size is  torch.Size([47812, 3])
+Frontend !!! Tracking and refining exposure cost  605.6568622589111 ms
+Frontend !!! Judge Kf cost  23.81420135498047 ms
+current window is  [111, 106, 103, 100, 95, 90, 78, 70]
+Frontend !!! Create Kf cost  69.45490837097168 ms
+current gaussian size  is  torch.Size([47812, 3])
+begin tracking and cur gaussian size is  torch.Size([47812, 3])
+Tracking converged and actual tracking iters is  90
+Frontend !!! Tracking and refining exposure cost  605.4582595825195 ms
+begin tracking and cur gaussian size is  torch.Size([47812, 3])
+Frontend !!! Tracking and refining exposure cost  654.1454792022705 ms
+begin tracking and cur gaussian size is  torch.Size([49354, 3])
+Frontend !!! Tracking and refining exposure cost  656.4357280731201 ms
+Frontend !!! Judge Kf cost  17.926454544067383 ms
+current window is  [114, 111, 106, 103, 100, 90, 78, 70]
+Frontend !!! Create Kf cost  77.44550704956055 ms
+current gaussian size  is  torch.Size([49354, 3])
+begin tracking and cur gaussian size is  torch.Size([49354, 3])
+Frontend !!! Tracking and refining exposure cost  663.8443470001221 ms
+begin tracking and cur gaussian size is  torch.Size([49354, 3])
+Frontend !!! Tracking and refining exposure cost  668.0896282196045 ms
+begin tracking and cur gaussian size is  torch.Size([50941, 3])
+Frontend !!! Tracking and refining exposure cost  692.9125785827637 ms
+Frontend !!! Judge Kf cost  17.435312271118164 ms
+current window is  [117, 114, 111, 106, 100, 90, 78, 70]
+Frontend !!! Create Kf cost  10.838747024536133 ms
+current gaussian size  is  torch.Size([50941, 3])
+MonoGS: Evaluating ATE at frame:  121
+Eval: RMSE ATE [m] 0.22198097358957197
+ 72.78990745544434
+mapping iter is  1  and mapping time is  69.66423988342285
+mapping iter is  1  and mapping time is  68.28165054321289
+mapping iter is  1  and mapping time is  77.99100875854492
+mapping iter is  1  and mapping time is  66.63012504577637
+mapping iter is  1  and mapping time is  66.6952133178711
+mapping iter is  1  and mapping time is  66.91813468933105
+mapping iter is  1  and mapping time is  31.711101531982422
+mapping iter is  1  and mapping time is  73.03261756896973
+mapping iter is  1  and mapping time is  70.51944732666016
+mapping iter is  1  and mapping time is  74.70417022705078
+mapping iter is  1  and mapping time is  75.0281810760498
+mapping iter is  1  and mapping time is  71.98286056518555
+mapping iter is  1  and mapping time is  66.2391185760498
+mapping iter is  1  and mapping time is  78.81641387939453
+mapping iter is  1  and mapping time is  73.34709167480469
+mapping iter is  1  and mapping time is  33.53619575500488
+create point cloud time is  2.6564598083496094 ms
+mapping iter is  10  and mapping time is  647.5353240966797
+keyframe mapping time is  675.2629280090332
+mapping iter is  1  and mapping time is  65.69075584411621
+mapping iter is  1  and mapping time is  66.87521934509277
+mapping iter is  1  and mapping time is  73.25315475463867
+mapping iter is  1  and mapping time is  73.60315322875977
+mapping iter is  1  and mapping time is  70.72091102600098
+mapping iter is  1  and mapping time is  66.6651725769043
+mapping iter is  1  and mapping time is  73.42028617858887
+mapping iter is  1  and mapping time is  73.47941398620605
+mapping iter is  1  and mapping time is  36.669254302978516
+mapping iter is  1  and mapping time is  27.730703353881836
+mapping iter is  1  and mapping time is  73.13752174377441
+mapping iter is  1  and mapping time is  73.55165481567383
+mapping iter is  1  and mapping time is  66.63107872009277
+mapping iter is  1  and mapping time is  70.7855224609375
+mapping iter is  1  and mapping time is  71.08640670776367
+mapping iter is  1  and mapping time is  72.73983955383301
+mapping iter is  1  and mapping time is  74.03874397277832
+mapping iter is  1  and mapping time is  63.96937370300293
+mapping iter is  1  and mapping time is  26.98683738708496
+mapping iter is  1  and mapping time is  22.78876304626465
+mapping iter is  1  and mapping time is  84.83529090881348
+mapping iter is  1  and mapping time is  66.89977645874023
+mapping iter is  1  and mapping time is  68.09401512145996
+mapping iter is  1  and mapping time is  71.94352149963379
+mapping iter is  1  and mapping time is  68.98164749145508
+mapping iter is  1  and mapping time is  62.429189682006836
+mapping iter is  1  and mapping time is  64.24856185913086
+mapping iter is  1  and mapping time is  54.28600311279297
+mapping iter is  1  and mapping time is  26.86452865600586
+mapping iter is  1  and mapping time is  42.22893714904785
+mapping iter is  1  and mapping time is  65.86956977844238
+mapping iter is  1  and mapping time is  61.37371063232422
+mapping iter is  1  and mapping time is  71.71750068664551
+mapping iter is  1  and mapping time is  72.8769302368164
+mapping iter is  1  and mapping time is  63.932180404663086
+mapping iter is  1  and mapping time is  68.48716735839844
+mapping iter is  1  and mapping time is  70.23310661315918
+mapping iter is  1  and mapping time is  34.79576110839844
+mapping iter is  1  and mapping time is  55.509328842163086
+mapping iter is  1  and mapping time is  34.01803970336914
+create point cloud time is  3.9548873901367188 ms
+mapping iter is  10  and mapping time is  597.4674224853516
+keyframe mapping time is  634.2635154724121
+mapping iter is  1  and mapping time is  70.49345970153809
+mapping iter is  1  and mapping time is  64.14031982421875
+mapping iter is  1  and mapping time is  67.37780570983887
+mapping iter is  1  and mapping time is  68.63808631896973
+mapping iter is  1  and mapping time is  66.06912612915039
+mapping iter is  1  and mapping time is  70.16134262084961
+mapping iter is  1  and mapping time is  70.94502449035645
+mapping iter is  1  and mapping time is  72.91102409362793
+mapping iter is  1  and mapping time is  28.894901275634766
+mapping iter is  1  and mapping time is  44.103384017944336
+mapping iter is  1  and mapping time is  63.588619232177734
+mapping iter is  1  and mapping time is  66.8179988861084
+mapping iter is  1  and mapping time is  65.15693664550781
+mapping iter is  1  and mapping time is  68.14718246459961
+mapping iter is  1  and mapping time is  69.93579864501953
+mapping iter is  1  and mapping time is  69.1080093383789
+mapping iter is  1  and mapping time is  68.5415267944336
+mapping iter is  1  and mapping time is  41.07260704040527
+mapping iter is  1  and mapping time is  44.67272758483887
+mapping iter is  1  and mapping time is  50.002098083496094
+create point cloud time is  5.7849884033203125 ms
+mapping iter is  10  and mapping time is  616.2829399108887
+keyframe mapping time is  672.616720199585
+mapping iter is  1  and mapping time is  72.27110862731934
+mapping iter is  1  and mapping time is  53.2381534576416
+mapping iter is  1  and mapping time is  72.03960418701172
+mapping iter is  1  and mapping time is  72.5259780883789
+mapping iter is  1  and mapping time is  75.85906982421875
+mapping iter is  1  and mapping time is  71.91705703735352
+mapping iter is  1  and mapping time is  67.7802562713623
+mapping iter is  1  and mapping time is  57.689666748046875
+mapping iter is  1  and mapping time is  22.64690399169922
+mapping iter is  1  and mapping time is  29.717445373535156
+mapping iter is  1  and mapping time is  76.0335922241211
+mapping iter is  1  and mapping time is  71.83361053466797
+mapping iter is  1  and mapping time is  63.69352340698242
+mapping iter is  1  and mapping time is  75.52266120910645
+mapping iter is  1  and mapping time is  69.74124908447266
+mapping iter is  1  and mapping time is  72.7994441986084
+mapping iter is  1  and mapping time is  74.79262351989746
+mapping iter is  1  and mapping time is  73.50826263427734
+mapping iter is  1  and mapping time is  37.683963775634766
+mapping iter is  1  and mapping time is  53.20405960083008
+create point cloud time is  3.0739307403564453 ms
+mapping iter is  10  and mapping time is  661.4871025085449
+keyframe mapping time is  684.917688369751
+mapping iter is  1  and mapping time is  51.79452896118164
+mapping iter is  1  and mapping time is  75.21510124206543
+mapping iter is  1  and mapping time is  73.66728782653809
+mapping iter is  1  and mapping time is  70.87159156799316
+mapping iter is  1  and mapping time is  70.67656517028809
+mapping iter is  1  and mapping time is  67.08717346191406
+mapping iter is  1  and mapping time is  69.21195983886719
+mapping iter is  1  and mapping time is  73.150634765625
+mapping iter is  1  and mapping time is  79.45084571838379
+mapping iter is  1  and mapping time is  38.89036178588867
+mapping iter is  1  and mapping time is  66.20049476623535
+mapping iter is  1  and mapping time is  79.72145080566406
+mapping iter is  1  and mapping time is  69.9615478515625
+mapping iter is  1  and mapping time is  71.42043113708496
+mapping iter is  1  and mapping time is  81.0096263885498
+mapping iter is  1  and mapping time is  82.88192749023438
+mapping iter is  1  and mapping time is  74.19681549072266
+mapping iter is  1  and mapping time is  77.88228988647461
+mapping iter is  1  and mapping time is  64.93782997131348
+mapping iter is  1  and mapping time is  28.416872024536133
+create point cloud time is  3.0672550201416016 ms
+mapping iter is  10  and mapping time is  653.8712978363037
+keyframe mapping time is  707.8568935394287
+mapping iter is  1  and mapping time is  43.41316223144531
+mapping iter is  1  and mapping time is  23.633241653442383
+mapping iter is  1  and mapping time is  63.813209533691406
+mapping iter is  1  and mapping time is  81.48932456970215
+mapping iter is  1  and mapping time is  72.16095924377441
+mapping iter is  1  and mapping time is  72.94321060180664
+mapping iter is  1  and mapping time is  81.01201057434082
+mapping iter is  1  and mapping time is  82.8711986541748
+mapping iter is  1  and mapping time is  81.28118515014648
+mapping iter is  1  and mapping time is begin tracking and cur gaussian size is  torch.Size([50941, 3])
+Frontend !!! Tracking and refining exposure cost  681.6792488098145 ms
+begin tracking and cur gaussian size is  torch.Size([52633, 3])
+Frontend !!! Tracking and refining exposure cost  671.0822582244873 ms
+Frontend !!! Judge Kf cost  17.882823944091797 ms
+current window is  [120, 117, 114, 111, 106, 100, 90, 78]
+Frontend !!! Create Kf cost  68.20893287658691 ms
+current gaussian size  is  torch.Size([52633, 3])
+begin tracking and cur gaussian size is  torch.Size([52633, 3])
+Frontend !!! Tracking and refining exposure cost  616.976261138916 ms
+begin tracking and cur gaussian size is  torch.Size([52633, 3])
+Frontend !!! Tracking and refining exposure cost  621.9818592071533 ms
+begin tracking and cur gaussian size is  torch.Size([53245, 3])
+Frontend !!! Tracking and refining exposure cost  582.3566913604736 ms
+Frontend !!! Judge Kf cost  17.946243286132812 ms
+current window is  [122, 120, 117, 114, 106, 100, 90, 78]
+Frontend !!! Create Kf cost  3.392457962036133 ms
+current gaussian size  is  torch.Size([53245, 3])
+begin tracking and cur gaussian size is  torch.Size([53245, 3])
+Frontend !!! Tracking and refining exposure cost  580.5873870849609 ms
+begin tracking and cur gaussian size is  torch.Size([53245, 3])
+Frontend !!! Tracking and refining exposure cost  580.2290439605713 ms
+begin tracking and cur gaussian size is  torch.Size([54853, 3])
+Frontend !!! Tracking and refining exposure cost  579.718828201294 ms
+Frontend !!! Judge Kf cost  17.406702041625977 ms
+current window is  [125, 122, 120, 117, 114, 106, 100, 90]
+Frontend !!! Create Kf cost  4.201650619506836 ms
+current gaussian size  is  torch.Size([54853, 3])
+begin tracking and cur gaussian size is  torch.Size([54853, 3])
+Frontend !!! Tracking and refining exposure cost  570.4493522644043 ms
+begin tracking and cur gaussian size is  torch.Size([54853, 3])
+Frontend !!! Tracking and refining exposure cost  572.1700191497803 ms
+begin tracking and cur gaussian size is  torch.Size([56440, 3])
+Frontend !!! Tracking and refining exposure cost  584.3689441680908 ms
+Frontend !!! Judge Kf cost  21.41857147216797 ms
+current window is  [128, 125, 122, 120, 117, 114, 106, 100]
+Frontend !!! Create Kf cost  3.5369396209716797 ms
+current gaussian size  is  torch.Size([56440, 3])
+begin tracking and cur gaussian size is  torch.Size([56440, 3])
+Frontend !!! Tracking and refining exposure cost  585.0818157196045 ms
+begin tracking and cur gaussian size is  torch.Size([56440, 3])
+Frontend !!! Tracking and refining exposure cost  589.0491008758545 ms
+begin tracking and cur gaussian size is  torch.Size([58091, 3])
+Frontend !!! Tracking and refining exposure cost  595.1876640319824 ms
+Frontend !!! Judge Kf cost  27.730941772460938 ms
+current window is  [131, 128, 125, 122, 120, 117, 114, 106]
+Frontend !!! Create Kf cost  3.7899017333984375 ms
+current gaussian size  is  torch.Size([58091, 3])
+MonoGS: Evaluating ATE at frame:  135
+Eval: RMSE ATE [m] 0.28890568267504774
+ 77.87489891052246
+mapping iter is  1  and mapping time is  59.53812599182129
+mapping iter is  1  and mapping time is  46.8597412109375
+create point cloud time is  3.3495426177978516 ms
+mapping iter is  10  and mapping time is  635.4453563690186
+keyframe mapping time is  685.0900650024414
+mapping iter is  1  and mapping time is  72.95465469360352
+mapping iter is  1  and mapping time is  73.18544387817383
+mapping iter is  1  and mapping time is  67.66891479492188
+mapping iter is  1  and mapping time is  68.93324851989746
+mapping iter is  1  and mapping time is  70.73307037353516
+mapping iter is  1  and mapping time is  64.11147117614746
+mapping iter is  1  and mapping time is  60.82916259765625
+mapping iter is  1  and mapping time is  54.76856231689453
+mapping iter is  1  and mapping time is  24.404287338256836
+mapping iter is  1  and mapping time is  35.071372985839844
+mapping iter is  1  and mapping time is  63.60983848571777
+mapping iter is  1  and mapping time is  70.72901725769043
+mapping iter is  1  and mapping time is  64.55755233764648
+mapping iter is  1  and mapping time is  64.74804878234863
+mapping iter is  1  and mapping time is  66.32328033447266
+mapping iter is  1  and mapping time is  63.8728141784668
+mapping iter is  1  and mapping time is  67.21711158752441
+mapping iter is  1  and mapping time is  46.70548439025879
+create point cloud time is  3.232717514038086 ms
+mapping iter is  10  and mapping time is  579.8709392547607
+keyframe mapping time is  603.1532287597656
+mapping iter is  1  and mapping time is  38.295745849609375
+mapping iter is  1  and mapping time is  63.49802017211914
+mapping iter is  1  and mapping time is  63.82155418395996
+mapping iter is  1  and mapping time is  60.838937759399414
+mapping iter is  1  and mapping time is  61.57064437866211
+mapping iter is  1  and mapping time is  64.80050086975098
+mapping iter is  1  and mapping time is  59.81874465942383
+mapping iter is  1  and mapping time is  60.018062591552734
+mapping iter is  1  and mapping time is  60.62722206115723
+mapping iter is  1  and mapping time is  61.90919876098633
+mapping iter is  1  and mapping time is  64.89205360412598
+mapping iter is  1  and mapping time is  63.05551528930664
+mapping iter is  1  and mapping time is  63.87591361999512
+mapping iter is  1  and mapping time is  64.03946876525879
+mapping iter is  1  and mapping time is  66.26200675964355
+mapping iter is  1  and mapping time is  66.1475658416748
+mapping iter is  1  and mapping time is  58.95042419433594
+mapping iter is  1  and mapping time is  65.72723388671875
+mapping iter is  1  and mapping time is  46.30279541015625
+mapping iter is  1  and mapping time is  27.113676071166992
+create point cloud time is  3.5216808319091797 ms
+mapping iter is  10  and mapping time is  575.8559703826904
+keyframe mapping time is  619.9455261230469
+mapping iter is  1  and mapping time is  65.54293632507324
+mapping iter is  1  and mapping time is  63.78436088562012
+mapping iter is  1  and mapping time is  65.39344787597656
+mapping iter is  1  and mapping time is  64.70346450805664
+mapping iter is  1  and mapping time is  66.98393821716309
+mapping iter is  1  and mapping time is  63.58933448791504
+mapping iter is  1  and mapping time is  62.33406066894531
+mapping iter is  1  and mapping time is  52.0327091217041
+mapping iter is  1  and mapping time is  24.08289909362793
+mapping iter is  1  and mapping time is  51.33533477783203
+mapping iter is  1  and mapping time is  66.43867492675781
+mapping iter is  1  and mapping time is  64.94307518005371
+mapping iter is  1  and mapping time is  66.95890426635742
+mapping iter is  1  and mapping time is  65.00077247619629
+mapping iter is  1  and mapping time is  66.67041778564453
+mapping iter is  1  and mapping time is  65.12594223022461
+mapping iter is  1  and mapping time is  63.28129768371582
+mapping iter is  1  and mapping time is  32.66334533691406
+create point cloud time is  3.7755966186523438 ms
+mapping iter is  10  and mapping time is  589.0884399414062
+keyframe mapping time is  609.9884510040283
+mapping iter is  1  and mapping time is  34.74259376525879
+mapping iter is  1  and mapping time is  58.55059623718262
+mapping iter is  1  and mapping time is  69.50712203979492
+mapping iter is  1  and mapping time is  65.28234481811523
+mapping iter is  1  and mapping time is  70.22523880004883
+mapping iter is  1  and mapping time is  63.16375732421875
+mapping iter is  1  and mapping time is  67.16656684875488
+mapping iter is  1  and mapping time is  62.899112701416016
+mapping iter is  1  and mapping time is  66.42007827758789
+mapping iter is  1  and mapping time is  28.824567794799805
+mapping iter is  1  and mapping time is  63.201189041137695
+mapping iter is  1  and mapping time is  64.3455982208252
+mapping iter is  1  and mapping time is  64.96524810791016
+mapping iter is  1  and mapping time is  67.47031211853027
+mapping iter is  1  and mapping time is  60.27579307556152
+mapping iter is  1  and mapping time is  65.37175178527832
+mapping iter is  1  and mapping time is  65.54508209228516
+mapping iter is  1  and mapping time is  64.26191329956055
+mapping iter is  1  and mapping time is  56.947946548461914
+mapping iter is  1  and mapping time is  22.711515426635742
+create point cloud time is  3.416299819946289 ms
+mapping iter is  10  and mapping time is  509.3250274658203
+keyframe mapping time is  554.4373989105225
+mapping iter is  1  and mapping time is  65.1848316192627
+mapping iter is  1  and mapping time is  69.0922737121582
+mapping iter is  1  and mapping time is  27.216672897338867
+mapping iter is  1  and mapping time is  23.68450164794922
+mapping iter is  1  and mapping time is  35.23683547973633
+mapping iter is  1  and mapping time is  59.65280532836914
+mapping iter is  1  and mapping time is  62.003374099731445
+mapping iter is  1  and mapping time is  66.13469123840332
+mapping iter is  1  and mapping time is  66.36571884155273
+mapping iter is  1  and mapping time is  69.08845901489258
+mapping iter is  1  and mapping time is  71.60663604736328
+mapping iter is  1  and mapping time is  65.5372142791748
+mapping iter is  1  and mapping time is  57.15680122375488
+mapping iter is  1  and mapping time is  26.471614837646484
+mapping iter is  1  and mapping time is  30.44581413269043
+mapping iter is  1  and mapping time is  63.909292221069336
+mapping iter is  1  and mapping time is  63.75694274902344
+mapping iter is  1  and mapping time is  86.68780326843262
+mapping iter is  1  and mapping time is  65.38677215576172
+mapping iter is  1  and mapping time is  62.67523765563965
+mapping iter is  1  and mapping time is  69.84210014343262
+mapping iter is  1  and mapping time is  67.56234169006348
+mapping iter is  1  and mapping time is  32.89175033569336
+mapping iter is  1  and mapping time is  28.580188751220703
+mapping iter is  1  and mapping time is  44.15607452392578
+mapping iter is  1  and mapping time is  68.02606582641602
+mapping iter is  1  and mapping time is  64.55588340759277
+mapping iter is  1  and mapping time is  66.39814376831055
+mapping iter is  1  and mapping time is  61.70344352722168
+mapping iter is  1  and mapping time is  65.28139114379883
+mapping iter is  1  and mapping time is  72.29161262512207
+mapping iter is  1  and mapping time is  66.07627868652344
+mapping iter is  1  and mapping time is  39.62087631225586
+mapping iter is  1  and mapping time is  32.25994110107422
+mapping iter is  1  and mapping time is  64.00728225708008
+mapping iter is  1  and mapping time is  61.278581619262695
+mapping iter is  1  and mapping time is  68.61162185668945
+mapping iter is  1  and mapping time is  69.02265548706055
+mapping iter is  1  and mapping time is  61.125993728637695
+mapping iter is  1  and mapping time is  38.94495964050293
+mapping iter is  1  and mapping time is  59.531211853027344
+mapping iter is  1  and mapping time is  61.80548667907715
+mapping iter is  1  and mapping time is  60.369014739990234
+mapping iter is  1  and mapping time is  65.32502174377441
+mapping iter is  1  and mapping time is  62.95299530029297
+mapping iter is  1  and mapping time is  65.98234176635742
+mapping iter is  1  and mapping time is  58.64119529724121
+mapping iter is  1 begin tracking and cur gaussian size is  torch.Size([58091, 3])
+Frontend !!! Tracking and refining exposure cost  628.9005279541016 ms
+begin tracking and cur gaussian size is  torch.Size([59741, 3])
+Frontend !!! Tracking and refining exposure cost  614.1295433044434 ms
+Frontend !!! Judge Kf cost  17.78125762939453 ms
+current window is  [134, 131, 128, 125, 122, 120, 117, 114]
+begin tracking and cur gaussian size is  torch.Size([59741, 3])
+Frontend !!! Tracking and refining exposure cost  587.6631736755371 ms
+Frontend !!! Judge Kf cost  21.717548370361328 ms
+current window is  [134, 131, 128, 125, 122, 120, 117, 114]
+begin tracking and cur gaussian size is  torch.Size([64427, 3])
+Tracking converged and actual tracking iters is  99
+Frontend !!! Tracking and refining exposure cost  593.3952331542969 ms
+Frontend !!! Judge Kf cost  21.30746841430664 ms
+current window is  [134, 131, 128, 125, 122, 120, 117, 114]
+begin tracking and cur gaussian size is  torch.Size([64427, 3])
+Tracking converged and actual tracking iters is  60
+Frontend !!! Tracking and refining exposure cost  377.9869079589844 ms
+Frontend !!! Judge Kf cost  4.237651824951172 ms
+current window is  [134, 131, 128, 125, 122, 120, 117, 114]
+begin tracking and cur gaussian size is  torch.Size([64427, 3])
+Tracking converged and actual tracking iters is  89
+Frontend !!! Tracking and refining exposure cost  540.1842594146729 ms
+Frontend !!! Judge Kf cost  24.584054946899414 ms
+current window is  [134, 131, 128, 125, 122, 120, 117, 114]
+begin tracking and cur gaussian size is  torch.Size([64427, 3])
+Tracking converged and actual tracking iters is  73
+Frontend !!! Tracking and refining exposure cost  452.45933532714844 ms
+Frontend !!! Judge Kf cost  19.207000732421875 ms
+current window is  [134, 131, 128, 125, 122, 120, 117, 114]
+begin tracking and cur gaussian size is  torch.Size([64427, 3])
+Tracking converged and actual tracking iters is  55
+Frontend !!! Tracking and refining exposure cost  360.2116107940674 ms
+Frontend !!! Judge Kf cost  18.13507080078125 ms
+current window is  [134, 131, 128, 125, 122, 120, 117, 114]
+begin tracking and cur gaussian size is  torch.Size([64427, 3])
+Tracking converged and actual tracking iters is  58
+Frontend !!! Tracking and refining exposure cost  363.4333610534668 ms
+Frontend !!! Judge Kf cost  17.562150955200195 ms
+current window is  [134, 131, 128, 125, 122, 120, 117, 114]
+begin tracking and cur gaussian size is  torch.Size([64427, 3])
+Tracking converged and actual tracking iters is  72
+Frontend !!! Tracking and refining exposure cost  436.22326850891113 ms
+Frontend !!! Judge Kf cost  3.150463104248047 ms
+current window is  [134, 131, 128, 125, 122, 120, 117, 114]
+begin tracking and cur gaussian size is  torch.Size([64427, 3])
+Tracking converged and actual tracking iters is  71
+Frontend !!! Tracking and refining exposure cost  437.877893447876 ms
+Frontend !!! Judge Kf cost  3.755807876586914 ms
+current window is  [134, 131, 128, 125, 122, 120, 117, 114]
+begin tracking and cur gaussian size is  torch.Size([64427, 3])
+Tracking converged and actual tracking iters is  66
+Frontend !!! Tracking and refining exposure cost  411.6017818450928 ms
+Frontend !!! Judge Kf cost  17.56429672241211 ms
+current window is  [134, 131, 128, 125, 122, 120, 117, 114]
+begin tracking and cur gaussian size is  torch.Size([64427, 3])
+Tracking converged and actual tracking iters is  67
+Frontend !!! Tracking and refining exposure cost  424.59845542907715 ms
+Frontend !!! Judge Kf cost  17.102718353271484 ms
+current window is  [134, 131, 128, 125, 122, 120, 117, 114]
+begin tracking and cur gaussian size is  torch.Size([64427, 3])
+Tracking converged and actual tracking iters is  58
+Frontend !!! Tracking and refining exposure cost  372.16711044311523 ms
+Frontend !!! Judge Kf cost  19.482135772705078 ms
+current window is  [134, 131, 128, 125, 122, 120, 117, 114]
+Frontend !!! Create Kf cost  4.012584686279297 ms
+current gaussian size  is  torch.Size([64427, 3])
+begin tracking and cur gaussian size is  torch.Size([64427, 3])
+Tracking converged and actual tracking iters is  81
+Frontend !!! Tracking and refining exposure cost  502.0439624786377 ms
+begin tracking and cur gaussian size is  torch.Size([64427, 3])
+Tracking converged and actual tracking iters is  85
+Frontend !!! Tracking and refining exposure cost  501.5873908996582 ms
+begin tracking and cur gaussian size is  torch.Size([66253, 3])
+Tracking converged and actual tracking iters is  75
+Frontend !!! Tracking and refining exposure cost  474.4124412536621 ms
+Frontend !!! Judge Kf cost  16.45660400390625 ms
+current window is  [148, 134, 131, 128, 125, 122, 120, 117]
+begin tracking and cur gaussian size is  torch.Size([66253, 3])
+Tracking converged and actual tracking iters is  63
+Frontend !!! Tracking and refining exposure cost  400.6366729736328 ms
+Frontend !!! Judge Kf cost  23.517608642578125 ms
+current window is  [148, 134, 131, 128, 125, 122, 120, 117]
+begin tracking and cur gaussian size is  torch.Size([66253, 3])
+Tracking converged and actual tracking iters is  62
+Frontend !!! Tracking and refining exposure cost  389.33372497558594 ms
+Frontend !!! Judge Kf cost  26.85379981994629 ms
+current window is  [148, 134, 131, 128, 125, 122, 120, 117]
+begin tracking and cur gaussian size is  torch.Size([66253, 3])
+Tracking converged and actual tracking iters is  60
+Frontend !!! Tracking and refining exposure cost  385.03384590148926 ms
+Frontend !!! Judge Kf cost  9.220600128173828 ms
+current window is  [148, 134, 131, 128, 125, 122, 120, 117]
+begin tracking and cur gaussian size is  torch.Size([66253, 3])
+Tracking converged and actual tracking iters is  86
+Frontend !!! Tracking and refining exposure cost  526.7679691314697 ms
+Frontend !!! Judge Kf cost  17.82822608947754 ms
+current window is  [148, 134, 131, 128, 125, 122, 120, 117]
+begin tracking and cur gaussian size is  torch.Size([71471, 3])
+Frontend !!! Tracking and refining exposure cost  613.1236553192139 ms
+Frontend !!! Judge Kf cost  19.740819931030273 ms
+current window is  [148, 134, 131, 128, 125, 122, 120, 117]
+Frontend !!! Create Kf cost  3.995180130004883 ms
+current gaussian size  is  torch.Size([71471, 3])
+begin tracking and cur gaussian size is  torch.Size([71471, 3])
+Frontend !!! Tracking and refining exposure cost  606.6327095031738 ms
+begin tracking and cur gaussian size is  torch.Size([71471, 3])
+ and mapping time is  68.07637214660645
+mapping iter is  1  and mapping time is  26.421308517456055
+mapping iter is  1  and mapping time is  28.503894805908203
+mapping iter is  1  and mapping time is  71.54417037963867
+mapping iter is  1  and mapping time is  68.77565383911133
+mapping iter is  1  and mapping time is  64.04614448547363
+mapping iter is  1  and mapping time is  67.30866432189941
+mapping iter is  1  and mapping time is  62.502384185791016
+mapping iter is  1  and mapping time is  63.027381896972656
+mapping iter is  1  and mapping time is  28.944969177246094
+mapping iter is  1  and mapping time is  28.063535690307617
+mapping iter is  1  and mapping time is  65.81926345825195
+mapping iter is  1  and mapping time is  62.020063400268555
+mapping iter is  1  and mapping time is  68.85766983032227
+mapping iter is  1  and mapping time is  54.77404594421387
+mapping iter is  1  and mapping time is  40.236473083496094
+mapping iter is  1  and mapping time is  31.746864318847656
+mapping iter is  1  and mapping time is  45.511484146118164
+mapping iter is  1  and mapping time is  65.77372550964355
+mapping iter is  1  and mapping time is  66.48683547973633
+mapping iter is  1  and mapping time is  64.77665901184082
+mapping iter is  1  and mapping time is  58.621883392333984
+mapping iter is  1  and mapping time is  54.22401428222656
+mapping iter is  1  and mapping time is  55.71413040161133
+mapping iter is  1  and mapping time is  68.73536109924316
+mapping iter is  1  and mapping time is  67.76237487792969
+mapping iter is  1  and mapping time is  63.29512596130371
+mapping iter is  1  and mapping time is  68.54414939880371
+mapping iter is  1  and mapping time is  67.55709648132324
+mapping iter is  1  and mapping time is  43.34735870361328
+mapping iter is  1  and mapping time is  22.577762603759766
+mapping iter is  1  and mapping time is  65.51194190979004
+mapping iter is  1  and mapping time is  64.77117538452148
+mapping iter is  1  and mapping time is  66.7276382446289
+mapping iter is  1  and mapping time is  70.07932662963867
+mapping iter is  1  and mapping time is  67.02923774719238
+mapping iter is  1  and mapping time is  34.95478630065918
+mapping iter is  1  and mapping time is  29.52742576599121
+mapping iter is  1  and mapping time is  59.873104095458984
+mapping iter is  1  and mapping time is  66.39599800109863
+mapping iter is  1  and mapping time is  62.48354911804199
+mapping iter is  1  and mapping time is  68.3741569519043
+mapping iter is  1  and mapping time is  70.68872451782227
+mapping iter is  1  and mapping time is  30.70807456970215
+mapping iter is  1  and mapping time is  34.668684005737305
+mapping iter is  1  and mapping time is  61.841726303100586
+mapping iter is  1  and mapping time is  67.63052940368652
+mapping iter is  1  and mapping time is  65.51504135131836
+mapping iter is  1  and mapping time is  66.01166725158691
+mapping iter is  1  and mapping time is  68.03631782531738
+mapping iter is  1  and mapping time is  49.47376251220703
+mapping iter is  1  and mapping time is  24.541378021240234
+mapping iter is  1  and mapping time is  31.651735305786133
+mapping iter is  1  and mapping time is  67.25740432739258
+mapping iter is  1  and mapping time is  63.4610652923584
+mapping iter is  1  and mapping time is  67.18277931213379
+mapping iter is  1  and mapping time is  66.17283821105957
+mapping iter is  1  and mapping time is  43.699026107788086
+create point cloud time is  3.6818981170654297 ms
+mapping iter is  10  and mapping time is  539.2084121704102
+keyframe mapping time is  563.7180805206299
+mapping iter is  1  and mapping time is  36.74674034118652
+mapping iter is  1  and mapping time is  69.04220581054688
+mapping iter is  1  and mapping time is  67.16227531433105
+mapping iter is  1  and mapping time is  71.54393196105957
+mapping iter is  1  and mapping time is  69.59366798400879
+mapping iter is  1  and mapping time is  64.1472339630127
+mapping iter is  1  and mapping time is  66.17212295532227
+mapping iter is  1  and mapping time is  48.33817481994629
+mapping iter is  1  and mapping time is  24.040699005126953
+mapping iter is  1  and mapping time is  40.50850868225098
+mapping iter is  1  and mapping time is  65.75989723205566
+mapping iter is  1  and mapping time is  62.32810020446777
+mapping iter is  1  and mapping time is  79.90598678588867
+mapping iter is  1  and mapping time is  67.41809844970703
+mapping iter is  1  and mapping time is  64.41640853881836
+mapping iter is  1  and mapping time is  41.021108627319336
+mapping iter is  1  and mapping time is  24.3070125579834
+mapping iter is  1  and mapping time is  44.30961608886719
+mapping iter is  1  and mapping time is  68.32504272460938
+mapping iter is  1  and mapping time is  63.1251335144043
+mapping iter is  1  and mapping time is  71.18344306945801
+mapping iter is  1  and mapping time is  67.24905967712402
+mapping iter is  1  and mapping time is  35.65478324890137
+mapping iter is  1  and mapping time is  24.60956573486328
+mapping iter is  1  and mapping time is  36.1173152923584
+mapping iter is  1  and mapping time is  70.34134864807129
+mapping iter is  1  and mapping time is  68.10760498046875
+mapping iter is  1  and mapping time is  67.20948219299316
+mapping iter is  1  and mapping time is  64.85915184020996
+mapping iter is  1  and mapping time is  60.295820236206055
+mapping iter is  1  and mapping time is  26.234149932861328
+mapping iter is  1  and mapping time is  54.36873435974121
+mapping iter is  1  and mapping time is  72.79229164123535
+mapping iter is  1  and mapping time is  63.69280815124512
+mapping iter is  1  and mapping time is  58.531999588012695
+mapping iter is  1  and mapping time is  67.94905662536621
+mapping iter is  1  and mapping time is  50.780296325683594
+mapping iter is  1  and mapping time is  22.72200584411621
+mapping iter is  1  and mapping time is  28.095245361328125
+mapping iter is  1  and mapping time is  70.68872451782227
+mapping iter is  1  and mapping time is  63.4152889251709
+mapping iter is  1  and mapping time is  61.608076095581055
+mapping iter is  1  and mapping time is  77.79812812805176
+mapping iter is  1  and mapping time is  69.64778900146484
+mapping iter is  1  and mapping time is  66.96200370788574
+mapping iter is  1  and mapping time is  43.29061508178711
+mapping iter is  1  and mapping time is  24.137496948242188
+mapping iter is  1  and mapping time is  33.88571739196777
+mapping iter is  1  and mapping time is  75.59823989868164
+mapping iter is  1  and mapping time is  66.17045402526855
+mapping iter is  1  and mapping time is  74.72729682922363
+mapping iter is  1  and mapping time is  66.45679473876953
+mapping iter is  1  and mapping time is  66.00117683410645
+mapping iter is  1  and mapping time is  63.87186050415039
+mapping iter is  1  and mapping time is  69.98729705810547
+mapping iter is  1  and mapping time is  41.567325592041016
+mapping iter is  1  and mapping time is  33.080339431762695
+create point cloud time is  2.909421920776367 ms
+mapping iter is  10  and mapping time is  611.6104125976562
+keyframe mapping time is  633.2087516784668
+mapping iter is  1  and mapping time is  54.2910099029541
+mapping iter is  1  and mapping time is  66.04552268981934
+mapping iter is  1  and mapping time is  62.29519844055176
+mapping iter is  1  and mapping time is  57.51323699951172
+mapping iter is  1  and mapping time is  65.89961051940918
+mapping iter is  1  and mapping time is  71.33293151855469
+mapping iter is  1  and mapping time is  68.45664978027344
